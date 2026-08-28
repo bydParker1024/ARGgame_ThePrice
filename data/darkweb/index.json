@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "entry": {
+    "secretPhrase": "积善成福，因果相承",
+    "hiddenUrl": "https://wenlian-charity.local/cooperation/",
+    "title": "文莲公益合作项目登记平台",
+    "welcome": "您好，这里是文莲慈善基金会在线服务。请问您需要咨询志愿服务还是公益捐赠？",
+    "hint": "如您通过其他渠道了解本会，请直接发送您所获得的完整信息。",
+    "retryHint": "如您咨询的并非公开志愿服务或捐赠事项，请确认您发送的信息与原内容完全一致。"
+  },
+  "memberAccess": {
+    "code": "071167",
+    "title": "身份验证",
+    "label": "会员码",
+    "placeholder": "请输入会员码",
+    "helperText": "请输入用于验证身份的身份码",
+    "submitLabel": "验证",
+    "invalidMessage": "身份码无效，请重新确认。",
+    "successMessage": ""
+  },
+  "site": {
+    "home": {
+      "hero": { "type": "image", "src": "", "alt": "" },
+      "art": {"pool":"./assets/darkweb/blood-pool-scene.png","left":"./assets/darkweb/lotus-left-alpha.png","center":"./assets/darkweb/lotus-center-alpha.png","right":"./assets/darkweb/lotus-right-alpha.png"}
+    }
+  },
+  "application": {},
+  "admin": {
+    "username": "",
+    "password": "",
+    "loginHint": ""
+  },
+  "adminUnlock": {
+    "lotusSequence": [3, 1, 8, 7, 5, 6, 4, 9],
+    "password": "",
+    "passwordHint": ""
+  },
+  "trades": [],
+  "logs": []
+}

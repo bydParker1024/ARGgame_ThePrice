@@ -1,0 +1,15 @@
+.arg-search-history-host{position:relative;width:min(650px,100%)}
+.arg-browser-search-wrap>.arg-search-history-host{width:100%}
+.arg-search-history-host .arg-browser-form,.arg-search-history-host .arg-search-query{width:100%;box-sizing:border-box}
+.arg-search-history{position:absolute;z-index:20;top:calc(100% + 6px);left:0;width:100%;box-sizing:border-box;overflow:hidden;border:1px solid #d9dfe6;border-radius:12px;background:#fff;box-shadow:0 8px 22px #1c2f4526;color:#263445}
+.arg-search-history[hidden]{display:none}
+.arg-search-history-title{display:flex;align-items:center;justify-content:space-between;padding:10px 14px 7px;color:#6a7785;font-size:12px}
+.arg-search-history-clear,.arg-search-history-remove,.arg-search-history-query{border:0;background:transparent;cursor:pointer}
+.arg-search-history-clear{padding:2px;color:#4b78a8;font-size:12px}
+.arg-search-history-item{display:flex;align-items:center;min-height:39px}
+.arg-search-history-query{display:flex;flex:1;align-items:center;gap:10px;min-width:0;padding:9px 14px;text-align:left;color:#283748;font:14px/1.35 "Segoe UI",sans-serif}
+.arg-search-history-query:hover{background:#f4f8fc}
+.arg-search-history-query span:last-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.arg-search-history-clock{color:#78889a;font-size:17px}
+.arg-search-history-remove{width:34px;height:32px;margin-right:5px;border-radius:8px;color:#778595;font-size:20px;line-height:1}
+.arg-search-history-remove:hover{background:#eef3f8;color:#3c4b5d}

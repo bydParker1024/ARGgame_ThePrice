@@ -1,0 +1,277 @@
+{
+  "version": 1,
+  "brand": "Chandler",
+  "placeholder": "\u641c\u7d22\u7f51\u9875\u3001\u65b0\u95fb\u548c\u66f4\u591a\u5185\u5bb9",
+  "hotSearches": [
+    "\u725b\u6765\uff1f\u725b\u6765\uff01",
+    "\u540d\u4fa6\u63a2\u79d1\u6bd4\u7ec8\u4e8e\u5927\u7ed3\u5c40\uff1f",
+    "\u54c8\u5409\u7c73\u4e0e\u5927\u72d7\u56bc \u8c01\u624d\u662f\u6700\u706b\u70ed\u6897",
+    "\u9707\u60ca\uff0c\u67d0\u4e00\u5973\u5b50\u4e03\u5915\u8282\u7adf\u7136\u7ed9\u7537\u53cb\u548c\u7537\u53cb\u5bf9\u8c61\u4eb2\u624b\u4e0b\u53a8"
+  ],
+  "searchRules": [
+    {
+      "keywords": [
+        "\u5468\u6d9b"
+      ],
+      "pageId": "zhou-tao-search"
+    },
+    {
+      "keywords": [
+        "\u7ffb\u6597\u82b1\u56ed\u9633\u5149\u798f\u5229\u9662"
+      ],
+      "pageId": "fandou-welfare-search"
+    },
+    {
+      "keywords": [
+        "\u6c5f\u5dde\u5e02\u7b2c\u4e8c\u4eba\u6c11\u533b\u9662",
+        "\u6c5f\u5dde\u5e02\u4eba\u6c11\u7b2c\u4e8c\u533b\u9662"
+      ],
+      "pageId": "jiangzhou-second-hospital-search"
+    },
+    {
+      "keywords": ["文莲慈善基金会"],
+      "pageId": "wenlian-charity-search"
+    },
+    {
+      "keywords": ["赵德刚"],
+      "pageId": "zhao-degang-search"
+    }
+  ],
+  "pages": {
+    "wenlian-charity-search": {"layout": "search-results", "query": "文莲慈善基金会", "resultCount": "约 2,160 个结果", "webResults": [{"pageId": "wenlian-charity-baike", "source": "百度百科", "title": "文莲慈善基金会_百度百科", "url": "https://baike.baidu.com/item/文莲慈善基金会", "snippet": "文莲慈善基金会，成立于2019年，主要开展儿童帮扶、医疗援助和社会公益服务。"}, {"pageId": "wenlian-charity-official", "source": "文莲慈善基金会官方网站", "title": "文莲慈善基金会官方网站", "url": "https://wenlian-charity.local/", "snippet": "发布公益项目、资助动态、机构信息及公开资料。"}, {"source": "江州日报", "time": "2025年6月", "title": "社会公益力量持续参与江州市基层民生服务", "url": "https://www.jiangzhou-daily.local/2025/livelihood-service", "snippet": "多方社会力量参与儿童关爱、基层服务与困难群体帮扶。"}, {"adId": "jobs"}, {"adId": "travel"}, {"source": "江州市第二人民医院", "time": "2024年12月", "title": "社会公益力量参与医疗救助服务", "url": "https://www.jz-second-hospital.local/news/charity-aid", "snippet": "医院介绍社会公益资金在困难患者救助和服务支持中的应用。"}, {"source": "江州公益", "time": "2023年8月", "title": "文莲慈善基金会开展儿童关爱公益活动", "url": "https://gongyi.jiangzhou.local/2023/child-care", "snippet": "志愿者走进社区和福利机构开展陪伴、物资捐赠等活动。"}, {"adId": "food"}], "related": ["文莲慈善基金会 林文武", "文莲慈善基金会 江州市", "文莲慈善基金会 公益", "文莲慈善基金会 医疗援助", "文莲慈善基金会 福利院", "文莲基金会"]},
+    "wenlian-charity-official": {"layout": "placeholder", "title": "文莲慈善基金会", "url": "https://wenlian-charity.local/", "message": "官方网站页面内容待录入。"},
+    "wenlian-charity-baike": {"layout": "placeholder", "title": "文莲慈善基金会 - 百度百科", "url": "https://baike.baidu.com/item/文莲慈善基金会", "message": "百度百科页面内容待录入。"},
+    "zhou-tao-search": {
+      "layout": "search-results",
+      "query": "\u5468\u6d9b",
+      "resultCount": "\u7ea6 8,640 \u4e2a\u7ed3\u679c",
+      "adIds": ["jobs", "used-phone"],
+      "profile": {
+        "name": "\u5468\u6d9b",
+        "summary": "\u7537\uff0c36\u5c81\uff0c\u6c5f\u5dde\u5e02\u4eba\u3002\u6c5f\u5dde\u8fdc\u535a\u5b9e\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8\u521b\u59cb\u4eba\u3001\u8463\u4e8b\u957f\u3002\u516c\u5f00\u8d44\u6599\u663e\u793a\uff0c\u8be5\u516c\u53f8\u4e3b\u8425\u533b\u7597\u5668\u6750\u548c\u57ce\u5e02\u670d\u52a1\u4e1a\u52a1\uff0c2021\u5e74\u5728\u6c5f\u5dde\u8bc1\u5238\u4ea4\u6613\u6240\u4e0a\u5e02\u3002",
+        "facts": [
+          "\u6c5f\u5dde\u8fdc\u535a\u5b9e\u4e1a\u96c6\u56e2\u8463\u4e8b\u957f",
+          "\u5176\u4ed6\u4efb\u804c\u4fe1\u606f\u6682\u65e0\u6cd5\u6838\u5b9e",
+          "\u516c\u5f00\u51fa\u5e2d\u8bb0\u5f55\u6b62\u4e8e 2025 \u5e74 11 \u6708"
+        ]
+      },
+      "related": [
+        "\u5468\u6d9b \u4e2a\u4eba\u8d44\u6599",
+        "\u6c5f\u5dde\u8fdc\u535a\u5b9e\u4e1a\u96c6\u56e2",
+        "\u5468\u6d9b \u533b\u7597\u5668\u6750",
+        "\u8fdc\u535a\u5b9e\u4e1a \u516c\u544a",
+        "\u6c5f\u5dde\u4f01\u4e1a\u5bb6 \u5468\u6d9b"
+      ],
+      "news": [
+        {
+          "source": "\u6c5f\u5dde\u8d22\u7ecf\u7f51",
+          "time": "3 \u5929\u524d",
+          "title": "\u8fdc\u535a\u5b9e\u4e1a\u5ba3\u5e03\u4f18\u5316\u4e1a\u52a1\u7ed3\u6784\uff0c\u521b\u59cb\u4eba\u5468\u6d9b\u7f3a\u5e2d\u8bf4\u660e\u4f1a",
+          "snippet": "\u516c\u53f8\u56de\u5e94\u79f0\uff0c\u5468\u6d9b\u6b63\u5728\u5904\u7406\u4e2a\u4eba\u4e8b\u52a1\uff0c\u672a\u62ab\u9732\u5177\u4f53\u539f\u56e0\u3002"
+        },
+        {
+          "source": "\u4f01\u4e1a\u4fe1\u606f\u89c2\u5bdf",
+          "time": "2026-07-28",
+          "title": "\u6c5f\u5dde\u8fdc\u535a\u5b9e\u4e1a\u96c6\u56e2\u66f4\u65b0\u6cd5\u5b9a\u4ee3\u8868\u4eba\u5907\u6848\u4fe1\u606f",
+          "snippet": "\u516c\u793a\u9875\u9762\u663e\u793a\u4fe1\u606f\u6b63\u5728\u5ba1\u6838\u4e2d\u3002"
+        },
+        {
+          "source": "\u57ce\u5e02\u665a\u62a5",
+          "time": "2026-07-21",
+          "title": "\u8fdc\u535a\u57fa\u91d1\u4f1a\u53d6\u6d88\u5e74\u5ea6\u5f00\u653e\u65e5\uff0c\u4e3b\u529e\u65b9\u672a\u4f5c\u8fdb\u4e00\u6b65\u8bf4\u660e",
+          "snippet": "\u6d3b\u52a8\u5f53\u65e5\u7684\u73b0\u573a\u8bbf\u95ee\u5df2\u88ab\u53d6\u6d88\u3002"
+        }
+      ]
+    },
+    "zhou-tao-wiki": {
+      "layout": "wiki",
+      "title": "\u5468\u6d9b",
+      "subtitle": "\u6c5f\u5dde\u8fdc\u535a\u5b9e\u4e1a\u96c6\u56e2\u521b\u59cb\u4eba\u3001\u8463\u4e8b\u957f",
+      "url": "https://baike.baidu.com/item/\u5468\u6d9b",
+      "intro": "\u5468\u6d9b\uff0c\u7537\uff0c\u6c5f\u5dde\u5e02\u4eba\uff0c\u6c5f\u5dde\u8fdc\u535a\u5b9e\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8\u521b\u59cb\u4eba\u3001\u8463\u4e8b\u957f\u3002\u8fdc\u535a\u5b9e\u4e1a\u4e3b\u8425\u533b\u7597\u5668\u6750\u4e0e\u57ce\u5e02\u670d\u52a1\u4e1a\u52a1\uff0c2024\u5e74\u5b8c\u6210\u4e0a\u5e02\u3002",
+      "earlyExperience": "\u65e9\u5e74\u4ece\u4e8b\u4f9b\u5e94\u94fe\u4e0e\u8bbe\u5907\u8d38\u6613\uff0c\u540e\u4e0e\u5f1f\u5f1f\u5468\u6d77\u4e00\u8d77\u521b\u529e\u8fdc\u535a\u5b9e\u4e1a\uff0c2022\u5e74\u4e0b\u534a\u5e74\u6210\u529f\u6293\u4f4f\u98ce\u53e3\uff0c\u5b9e\u73b0\u4e86\u516c\u53f8\u8f6c\u578b\uff0c\u5e76\u57282024\u5e74\u5b8c\u6210\u4e0a\u5e02\u3002",
+      "achievements": [
+        {
+          "year": "2018\u5e74",
+          "title": "\u521b\u529e\u8fdc\u535a\u5b9e\u4e1a",
+          "content": "\u4e0e\u5f1f\u5f1f\u5468\u6d77\u5171\u540c\u7ec4\u5efa\u8fdc\u535a\u5b9e\u4e1a\uff0c\u4ece\u533b\u7597\u5668\u6750\u4f9b\u5e94\u94fe\u4e1a\u52a1\u8d77\u6b65\u3002"
+        },
+        {
+          "year": "2022\u5e74",
+          "title": "\u5b8c\u6210\u4e1a\u52a1\u8f6c\u578b",
+          "content": "\u96c6\u56e2\u8c03\u6574\u4e1a\u52a1\u65b9\u5411\uff0c\u8fdb\u5165\u57ce\u5e02\u533b\u7597\u670d\u52a1\u4e0e\u7ef4\u62a4\u9886\u57df\u3002"
+        },
+        {
+          "year": "2024\u5e74",
+          "title": "\u5b8c\u6210\u4e0a\u5e02",
+          "content": "\u8fdc\u535a\u5b9e\u4e1a\u5728\u6c5f\u5dde\u8bc1\u5238\u4ea4\u6613\u6240\u5b8c\u6210\u4e0a\u5e02\u3002"
+        }
+      ],
+      "relationships": [
+        {
+          "name": "\u5468\u6d77",
+          "role": "\u5f1f\u5f1f\uff08\u5df2\u6545\uff09"
+        }
+      ],
+      "charityNews": {
+        "title": "\u8fdc\u535a\u5b9e\u4e1a\u8d44\u52a9\u6587\u83b2\u6148\u5584\u57fa\u91d1\u4f1a\u793e\u533a\u533b\u7597\u9879\u76ee",
+        "content": "\u6587\u83b2\u6148\u5584\u57fa\u91d1\u4f1a\u516c\u5e03\u7684\u5408\u4f5c\u4fe1\u606f\u663e\u793a\uff0c\u8fdc\u535a\u5b9e\u4e1a\u5c06\u4e3a\u793e\u533a\u533b\u7597\u7269\u8d44\u63d0\u4f9b\u4e13\u9879\u8d44\u52a9\u3002",
+        "source": "\u6c5f\u5dde\u516c\u76ca\u7f51",
+        "date": "2025-10-16"
+      }
+    },
+    "fandou-welfare-search": {
+      "layout": "search-results",
+      "query": "\u7ffb\u6597\u82b1\u56ed\u9633\u5149\u798f\u5229\u9662",
+      "resultCount": "\u7ea6 1,280 \u4e2a\u7ed3\u679c",
+      "adIds": ["housing", "food", "moving"],
+      "profile": {
+        "name": "\u7ffb\u6597\u82b1\u56ed\u9633\u5149\u798f\u5229\u9662",
+        "summary": "\u7ffb\u6597\u82b1\u56ed\u9633\u5149\u798f\u5229\u9662\uff0c\u4f4d\u4e8e\u6c5f\u5dde\u5e02\u7ffb\u6597\u82b1\u56ed\u793e\u533a\uff0c\u4e3a\u513f\u7ae5\u63d0\u4f9b\u751f\u6d3b\u7167\u62a4\u3001\u6559\u80b2\u652f\u6301\u3001\u533b\u7597\u534f\u52a9\u53ca\u793e\u4f1a\u878d\u5165\u670d\u52a1\u7684\u516c\u76ca\u798f\u5229\u673a\u6784\u3002",
+        "facts": [
+          "\u673a\u6784\u7c7b\u578b\uff1a\u513f\u7ae5\u798f\u5229\u673a\u6784",
+          "\u670d\u52a1\u8303\u56f4\uff1a\u751f\u6d3b\u7167\u62a4\u3001\u6559\u80b2\u652f\u6301\u3001\u533b\u7597\u534f\u52a9",
+          "\u516c\u5f00\u72b6\u6001\uff1a\u6b63\u5e38\u8fd0\u8425"
+        ]
+      },
+      "related": [
+        "\u7ffb\u6597\u82b1\u56ed\u9633\u5149\u798f\u5229\u9662 \u5730\u5740",
+        "\u7ffb\u6597\u82b1\u56ed\u9633\u5149\u798f\u5229\u9662 \u5fd7\u613f\u8005",
+        "\u6c5f\u5dde\u5e02 \u513f\u7ae5\u798f\u5229\u673a\u6784",
+        "\u9633\u5149\u798f\u5229\u9662 \u6350\u8d60"
+      ],
+      "news": [
+        {
+          "source": "\u6c5f\u5dde\u5e02\u6c11\u653f\u670d\u52a1\u7f51",
+          "time": "2026-08-01",
+          "title": "\u7ffb\u6597\u82b1\u56ed\u9633\u5149\u798f\u5229\u9662\u53d1\u5e03\u6691\u671f\u513f\u7ae5\u5173\u7231\u670d\u52a1\u5b89\u6392",
+          "snippet": "\u9662\u65b9\u8868\u793a\uff0c\u6691\u671f\u670d\u52a1\u5c06\u56f4\u7ed5\u5065\u5eb7\u7b5b\u67e5\u3001\u9605\u8bfb\u966a\u4f34\u53ca\u6237\u5916\u6d3b\u52a8\u5c55\u5f00\u3002"
+        },
+        {
+          "source": "\u793e\u533a\u516c\u76ca\u8d44\u8baf",
+          "time": "2026-07-24",
+          "title": "\u7ffb\u6597\u82b1\u56ed\u793e\u533a\u5fd7\u613f\u8005\u8d70\u8fdb\u9633\u5149\u798f\u5229\u9662",
+          "snippet": "\u5fd7\u613f\u670d\u52a1\u961f\u5b8c\u6210\u9662\u5185\u9605\u8bfb\u89d2\u6574\u7406\u53ca\u966a\u4f34\u6d3b\u52a8\u3002"
+        }
+      ],
+      "siteSearchRules": [
+        {
+          "keyword": "\u674e\u6653\u6653",
+          "resultType": "article",
+          "title": "\u7231\u5fc3\u6c47\u805a\u6e29\u6696\u540c\u884c\u2014\u2014\u798f\u5229\u9662\u513f\u7ae5\u674e\u6653\u6653\u8fce\u6765\u65b0\u5bb6\u5ead",
+          "content": "\u68c0\u7d22\u5230 1 \u6761\u513f\u7ae5\u5173\u7231\u670d\u52a1\u6d3b\u52a8\u8bb0\u5f55\u3002",
+          "image": "./assets/browser/welfare/xiaoxiao-new-family.png"
+        }
+      ]
+    },
+    "zhao-degang-search": {
+      "layout": "search-results",
+      "query": "赵德刚",
+      "resultCount": "约 5,120 个结果",
+      "webResults": [
+        {"pageId": "zhao-degang-wiki", "source": "百度百科", "title": "赵德刚", "url": "https://baike.baidu.com/item/赵德刚", "snippet": "赵德刚，男，现任江州市人民政府副市长，曾在江州市发展和改革委员会、市人民政府办公室等单位任职。"},
+        {"pageId": "zhao-degang-government", "source": "江州市人民政府", "title": "赵德刚 - 江州市人民政府", "url": "https://www.jiangzhou.gov.local/leadership/zhaodegang", "snippet": "赵德刚，江州市人民政府副市长。负责发展改革、重点项目建设等方面工作。"},
+        {"adId": "huaqiang-usedcar"},
+        {"pageId": "zhao-degang-ndrc-2023", "source": "江州市发展和改革委员会", "time": "2023年9月", "title": "市发展改革委召开重点项目建设协调会议", "url": "https://fgw.jiangzhou.gov.local/news/2023-09-projects", "snippet": "市发展改革委有关负责同志参加会议，副主任赵德刚就项目推进和部门协调工作作相关安排。"},
+        {"adId": "xin-service"},
+        {"pageId": "zhao-degang-livelihood-2024", "source": "江州市人民政府", "time": "2024年10月", "title": "市政府召开民生项目专题协调会", "url": "https://www.jiangzhou.gov.local/news/2024-livelihood", "snippet": "会议研究有关民生项目推进情况，市政府副秘书长赵德刚参加会议。"}
+      ],
+      "related": ["赵德刚 江州市", "赵德刚 副市长", "赵德刚 江州市人民政府", "赵德刚 发改委", "赵德刚 副秘书长"]
+    },
+    "zhao-degang-wiki": {
+      "layout": "wiki",
+      "title": "赵德刚",
+      "subtitle": "江州市人民政府副市长",
+      "url": "https://baike.baidu.com/item/赵德刚",
+      "portrait": "./assets/browser/zhao-degang/zhao-degang-portrait.png",
+      "intro": "赵德刚，男，现任江州市人民政府副市长，曾任江州市发展和改革委员会副主任、江州市人民政府副秘书长等职。",
+      "facts": [["中文名", "赵德刚"], ["国籍", "中国"], ["出生日期", "1976年"], ["职业", "政府工作人员"], ["现任职务", "江州市人民政府副市长"], ["曾任职务", "江州市人民政府副秘书长、江州市发展和改革委员会副主任"], ["工作地区", "江州市"]],
+      "career": ["历任江州市发展和改革委员会有关业务处室负责人等职。", "2023年，任江州市发展和改革委员会副主任。", "2024年2月，任江州市人民政府副秘书长。", "2025年3月，任江州市人民政府副市长。"],
+      "appointments": ["2024年2月，任江州市人民政府副秘书长。", "2025年3月，任江州市人民政府副市长。"],
+      "responsibilities": ["负责发展改革、重点项目建设、能源、粮食和物资储备等方面工作。", "协助负责重大项目协调推进等工作。"],
+      "activities": ["2023年9月，参加江州市重点项目建设协调推进相关工作。", "2024年，参加市政府有关重大项目、民生工程协调工作。", "2024年下半年，参加部分社会公益合作及民生项目调研活动。", "2025年，围绕重点项目建设等工作开展调研。"]
+    },
+    "zhao-degang-government": {
+      "layout": "government-leader",
+      "title": "赵德刚 - 江州市人民政府",
+      "url": "https://www.jiangzhou.gov.local/leadership/zhaodegang",
+      "portrait": "./assets/browser/zhao-degang/zhao-degang-portrait.png",
+      "name": "赵德刚",
+      "position": "江州市人民政府副市长",
+      "intro": "赵德刚，男，1976年生，现任江州市人民政府副市长。",
+      "responsibilities": ["负责发展改革、重点项目建设、能源、粮食和物资储备等方面工作。", "负责有关重大项目协调推进工作。", "协助负责部分民生项目建设和社会力量参与公共服务等工作。"],
+      "resume": ["曾任江州市发展和改革委员会有关处室负责人、江州市发展和改革委员会副主任等职。", "2024年2月，任江州市人民政府副秘书长。", "2025年3月，任江州市人民政府副市长。"],
+      "updates": [
+        {"date":"2023-08-16", "title":"市发展改革委调研重点项目建设进展", "summary":"赵德刚带队赴有关项目现场调研，了解建设进度、要素保障及项目审批情况，并协调解决推进过程中存在的问题。"},
+        {"date":"2023-09-22", "title":"市发展改革委召开重点项目建设协调会议", "summary":"会议研究重点项目建设进度及相关部门协调事项。赵德刚就项目推进、审批衔接和要素保障等工作作出安排。"},
+        {"date":"2023-11-14", "title":"市发展改革委调研社会力量参与民生项目情况", "summary":"调研组围绕社会公益组织参与儿童关爱、基层民生服务等情况开展调研。文莲慈善基金会等社会公益组织介绍了相关项目实施情况。", "wenlian":true, "futurePageId":"zhao-degang-social-projects-2023"},
+        {"date":"2024-03-19", "title":"市政府召开重大项目建设专题协调会", "summary":"会议研究部分重大项目推进情况。赵德刚参加会议并协调有关部门落实项目审批、建设进度和要素保障工作。"},
+        {"date":"2024-05-23", "title":"江州市开展儿童福利服务项目调研", "summary":"市有关部门就基层儿童福利服务、困境儿童帮扶和社会力量参与情况开展调研。文莲慈善基金会作为公益合作单位介绍有关儿童关爱项目实施情况。", "wenlian":true, "futurePageId":"zhao-degang-child-welfare-2024"},
+        {"date":"2024-07-11", "title":"赵德刚参加全市重点民生项目协调推进会", "summary":"会议研究教育、医疗、养老及基层公共服务设施建设进展。"},
+        {"date":"2024-10-18", "title":"市政府召开社会公益合作项目座谈会", "summary":"会议研究社会公益力量参与公共服务有关工作。有关部门、福利机构及社会公益组织参加会议，文莲慈善基金会参与交流。", "wenlian":true, "futurePageId":"zhao-degang-public-welfare-2024"},
+        {"date":"2024-12-09", "title":"赵德刚赴重点民生项目现场调研", "summary":"赵德刚赴有关福利设施和基层公共服务项目现场，了解建设进展及部门协调情况。"},
+        {"date":"2025-04-16", "title":"赵德刚调研全市重点项目建设工作", "summary":"赵德刚一行赴有关重点项目现场调研建设进度，并就项目推进、要素保障等工作提出要求。"},
+        {"date":"2025-05-12", "title":"全市重点项目推进工作会议召开", "summary":"会议围绕项目建设、投资进度、部门协调和要素保障等工作作出部署，赵德刚出席会议。"},
+        {"date":"2025-06-18", "title":"江州市儿童关爱与基层福利设施提升项目协调推进会召开", "summary":"会议研究儿童福利设施改善、基层儿童关爱服务和社会公益力量参与等工作。赵德刚出席会议并就项目建设进度、部门协同和社会资源统筹提出要求。文莲慈善基金会等社会公益机构参与部分公益合作项目；该项目纳入年度重点民生项目协调推进范围。", "wenlian":true, "futurePageId":"zhao-degang-child-care-2025"},
+        {"date":"2025-07-24", "title":"赵德刚调研粮食储备和能源保供工作", "summary":"赵德刚赴有关储备设施和能源保障单位调研，了解运行保障及安全管理情况。"},
+        {"date":"2025-08-21", "title":"赵德刚调研基层儿童福利设施提升项目", "summary":"赵德刚赴有关福利机构和基层服务点调研项目建设情况，了解设施改造、儿童关爱服务和社会公益资源参与情况。文莲慈善基金会作为项目公益合作单位参与相关服务。", "wenlian":true, "futurePageId":"zhao-degang-welfare-facilities-2025"},
+        {"date":"2025-10-15", "title":"江州市召开社会力量参与民生项目工作座谈会", "summary":"会议围绕公益组织参与儿童关爱、医疗救助及基层公共服务等工作进行交流。"}
+      ],
+      "reports": ["赵德刚：强化项目支撑 推动重点项目建设提速增效", "江州市召开重点民生项目建设推进会", "赵德刚调研基层公共服务设施建设", "江州市儿童关爱与基层福利设施提升项目启动推进", "社会公益力量参与基层民生服务座谈会召开"]
+    },
+    "zhao-degang-projects-2025": {"layout": "article", "site": "江州市人民政府", "publishedAt": "2025年", "title": "赵德刚调研全市重点项目建设工作", "url": "https://www.jiangzhou.gov.local/news/2025-projects", "body": ["近日，江州市人民政府副市长赵德刚带队调研全市重点项目建设情况，先后前往城东产业园、江北综合交通枢纽等项目现场，实地了解项目建设进度、要素保障及施工组织情况。", "调研过程中，赵德刚详细询问项目审批、资金落实和用地保障等情况。他指出，重点项目是推动全市经济社会发展的重要支撑，各有关部门要进一步加强协调配合，及时解决项目推进过程中存在的困难和问题。", "赵德刚要求，要围绕年度建设目标倒排工期、压实责任，在确保工程质量和施工安全的前提下，加快项目建设进度。发改、财政、自然资源等部门要强化服务意识，为项目建设做好要素保障。", "市发展改革委及相关部门负责人参加调研。"]},
+    "zhao-degang-daily-meeting": {"layout": "article", "site": "江州日报", "publishedAt": "2025年", "title": "全市重点项目推进工作会议召开", "url": "https://www.jiangzhou-daily.local/2025/project-meeting", "body": ["近日，江州市召开全市重点项目推进工作会议，听取重点项目建设进展情况汇报，研究协调有关问题。市委、市政府有关领导出席会议，副市长赵德刚参加会议。", "会议指出，今年以来，全市重点项目总体推进平稳，但部分项目在审批、用地、资金和施工组织等方面仍存在堵点。各责任单位要进一步压实工作责任，加强跨部门协调，提高项目推进效率。", "赵德刚在会上表示，要进一步完善重点项目调度机制，对建设进度滞后的项目逐项分析原因、明确解决方案。涉及多个部门的事项，要通过联席协调方式及时处理，避免问题长期搁置。", "会议还对下一阶段重点产业项目、民生项目和基础设施项目建设进行了部署。"]},
+    "zhao-degang-ndrc-2023": {"layout": "article", "site": "江州市发展和改革委员会", "publishedAt": "2023年9月", "title": "市发展改革委召开重点项目建设协调会议", "url": "https://fgw.jiangzhou.gov.local/news/2023-09-projects", "body": ["2023年9月，江州市发展和改革委员会召开重点项目建设协调会议，研究近期重点项目推进情况及有关部门协调事项。市发展改革委有关负责同志、相关项目单位及职能部门代表参加会议。", "市发展改革委副主任赵德刚参加会议并就项目推进和部门协调工作作出安排。", "会议听取了部分重点项目建设进度汇报，对项目审批、资金计划、用地手续及配套设施建设等问题进行了逐项研究。", "赵德刚提出，各业务科室要加强对重点项目的跟踪服务，及时掌握项目推进过程中出现的新问题。涉及跨部门事项的，应主动对接有关单位，提高协调效率。", "会议要求相关责任单位根据协调意见进一步完善工作计划，并按时间节点反馈项目推进情况。"]},
+    "zhao-degang-livelihood-2024": {"layout": "article", "site": "江州市人民政府", "publishedAt": "2024年10月", "title": "市政府召开民生项目专题协调会", "url": "https://www.jiangzhou.gov.local/news/2024-livelihood", "body": ["2024年10月，江州市政府召开民生项目专题协调会，研究医疗、教育、养老及基层公共服务等重点民生项目建设进展。", "市政府副秘书长赵德刚参加会议，并就部分项目推进过程中涉及的部门协调事项进行部署。", "会议听取了市发展改革委、市财政局、市卫生健康委等部门有关情况汇报，对项目资金安排、建设进度及后续运行保障等问题进行了讨论。", "赵德刚提出，各相关单位要进一步明确责任分工，加强信息沟通，对涉及多个部门的事项建立协调清单，及时推动问题解决。", "会议强调，民生项目直接关系群众切身利益，要在保证项目质量和资金使用规范的基础上，加快推进实施。"]},
+    "jiangzhou-second-hospital-search": {
+      "layout": "search-results",
+      "query": "\u6c5f\u5dde\u5e02\u7b2c\u4e8c\u4eba\u6c11\u533b\u9662",
+      "resultCount": "\u7ea6 4,380 \u4e2a\u7ed3\u679c",
+      "profile": {
+        "name": "\u6c5f\u5dde\u5e02\u7b2c\u4e8c\u4eba\u6c11\u533b\u9662",
+        "summary": "\u6c5f\u5dde\u5e02\u7b2c\u4e8c\u4eba\u6c11\u533b\u9662\u662f\u4e00\u6240\u7efc\u5408\u6027\u516c\u7acb\u533b\u9662\uff0c\u63d0\u4f9b\u95e8\u8bca\u3001\u4f4f\u9662\u3001\u6025\u8bca\u3001\u533b\u7597\u534f\u4f5c\u53ca\u516c\u5171\u536b\u751f\u670d\u52a1\u3002",
+        "facts": [
+          "\u533b\u9662\u7b49\u7ea7\uff1a\u4e09\u7ea7\u7efc\u5408\u533b\u9662",
+          "\u5730\u5740\uff1a\u6c5f\u5dde\u5e02\u57ce\u5357\u533a\u5b89\u5eb7\u8def18\u53f7",
+          "\u95e8\u8bca\u65f6\u95f4\uff1a8:00\u201417:30"
+        ]
+      },
+      "related": [
+        "\u6c5f\u5dde\u5e02\u7b2c\u4e8c\u4eba\u6c11\u533b\u9662 \u95e8\u8bca",
+        "\u6c5f\u5dde\u5e02\u7b2c\u4e8c\u4eba\u6c11\u533b\u9662 \u533b\u751f",
+        "\u6c5f\u5dde\u5e02\u7b2c\u4e8c\u4eba\u6c11\u533b\u9662 \u5730\u5740",
+        "\u6c5f\u5dde\u5e02\u7b2c\u4e8c\u4eba\u6c11\u533b\u9662 \u9884\u7ea6\u6302\u53f7"
+      ],
+      "news": [
+        {
+          "source": "\u6c5f\u5dde\u5e02\u536b\u5065\u8d44\u8baf",
+          "time": "2026-08-03",
+          "title": "\u6c5f\u5dde\u5e02\u7b2c\u4e8c\u4eba\u6c11\u533b\u9662\u53d1\u5e03\u590f\u5b63\u95e8\u8bca\u5b89\u6392",
+          "snippet": "\u533b\u9662\u63d0\u793a\uff0c\u90e8\u5206\u4e13\u79d1\u95e8\u8bca\u5b89\u6392\u5c06\u968f\u8282\u5047\u65e5\u8fdb\u884c\u8c03\u6574\u3002"
+        },
+        {
+          "source": "\u533b\u9662\u516c\u544a",
+          "time": "2026-07-29",
+          "title": "\u6c5f\u5dde\u5e02\u7b2c\u4e8c\u4eba\u6c11\u533b\u9662\u5b8c\u6210\u75c5\u533a\u8bbe\u65bd\u5347\u7ea7",
+          "snippet": "\u9662\u5185\u591a\u5904\u516c\u5171\u8bca\u7597\u533a\u57df\u5df2\u5b8c\u6210\u4f18\u5316\u7ef4\u62a4\u3002"
+        }
+      ],
+      "siteSearchRules": [
+        {
+          "keyword": "\u7ffb\u6597\u82b1\u56ed\u9633\u5149\u798f\u5229\u9662",
+          "resultType": "article",
+          "title": "\u6c5f\u5dde\u5e02\u7b2c\u4e8c\u4eba\u6c11\u533b\u9662\u5168\u529b\u6551\u6cbb\u6668\u66e6\u82b1\u56ed\u9633\u5149\u513f\u7ae5\u798f\u5229\u4e2d\u5fc3\u98df\u54c1\u5b89\u5168\u4e8b\u6545\u60a3\u513f",
+          "content": "\u591a\u90e8\u95e8\u8054\u5408\u5f00\u5c55\u6551\u6cbb\u5de5\u4f5c\uff0c\u533b\u9662\u6210\u7acb\u4e13\u9879\u533b\u7597\u6551\u6cbb\u7ec4\u3002",
+          "image": ""
+        },
+        {
+          "keyword": "\u6587\u83b2\u6148\u5584\u57fa\u91d1\u4f1a",
+          "resultType": "article",
+          "title": "\u643a\u624b\u516c\u76ca\u529b\u91cf\uff0c\u5171\u7b51\u5065\u5eb7\u9632\u7ebf",
+          "content": "\u6c5f\u5dde\u5e02\u4eba\u6c11\u533b\u9662\u611f\u8c22\u6587\u83b2\u6148\u5584\u57fa\u91d1\u4e0e\u6c5f\u5dde\u8fdc\u535a\u5b9e\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8\u7231\u5fc3\u652f\u6301\u3002",
+          "image": "./assets/browser/jiangzhou-second-hospital/wenlian-charity-support.png"
+        }
+      ]
+    }
+  }
+}

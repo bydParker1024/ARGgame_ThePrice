@@ -1,0 +1,163 @@
+[
+  {
+    "file": "20200117-missing-001.json",
+    "caseNo": "JZ-XZ-20200417-001",
+    "title": "青山水库落水案",
+    "category": "未录入",
+    "status": "侦办中",
+    "date": "2020年4月17日",
+    "location": "江州市青山县青山水库北岸旧码头",
+    "people": [
+      "赵建国",
+      "李梅",
+      "赵福来"
+    ],
+    "owner": "黄秋生_071167",
+    "caseType": "非正常死亡",
+    "caseStatus": "调查中",
+    "caseTags": [
+      "死亡",
+      "溺水",
+      "疑似意外"
+    ],
+    "entryStatus": "pending"
+  },
+  {
+    "file": "20220421-accident-003.json",
+    "caseNo": "JZ-XZ-20220421-004",
+    "title": "天桥坠落事故调查案",
+    "category": "未录入",
+    "status": "侦办中",
+    "date": "2022年4月21日",
+    "location": "江州市南城区人民路天桥",
+    "people": [
+      "周海",
+      "刘本伟",
+      "周涛"
+    ],
+    "owner": "黄秋生_071167",
+    "caseType": "非正常死亡",
+    "caseStatus": "调查中",
+    "caseTags": [
+      "死亡",
+      "坠落",
+      "疑似意外"
+    ],
+    "entryStatus": "pending"
+  },
+  {
+    "file": "20230630-criminal-009.json",
+    "caseNo": "JZ-XZ-20230630-014",
+    "title": "养老院老人死亡案",
+    "category": "未录入",
+    "status": "已结案",
+    "date": "2023年6月30日",
+    "location": "江州市安康养老院3号护理区",
+    "people": [
+      "赵德明",
+      "李娟",
+      "赵德刚",
+      "张超"
+    ],
+    "owner": "黄秋生_071167",
+    "caseType": "非正常死亡",
+    "caseStatus": "已结案",
+    "caseTags": [
+      "死亡",
+      "存在疑点"
+    ],
+    "entryStatus": "pending"
+  },
+  {
+    "file": "20260122-criminal-015.json",
+    "caseNo": "JZ-XZ-20260122-007",
+    "title": "死神小学生案件",
+    "category": "意外案件",
+    "status": "侦办中",
+    "date": "2026年1月22日",
+    "location": "江州市西郊废弃机械制造厂",
+    "people": [
+      "外籍人员"
+    ],
+    "owner": "王也_073526",
+    "caseType": "刑事案件",
+    "caseStatus": "调查中",
+    "caseTags": [
+      "死亡",
+      "未成年人",
+      "重新调查"
+    ],
+    "entryStatus": "entered"
+  },
+  {
+    "file": "20211117-criminal-016.json",
+    "caseNo": "JZ-XZ-20211117-016",
+    "title": "云山酒店密室死亡案",
+    "category": "刑事案件",
+    "status": "已结案",
+    "date": "2021年11月17日 22时30分—23时40分",
+    "location": "江州市南城区云山酒店402号客房",
+    "people": [
+      "沈志远（死者）",
+      "林浩（已判决）",
+      "王敏",
+      "周建国（报案人）"
+    ],
+    "owner": "林振东_071184",
+    "caseType": "刑事案件",
+    "caseStatus": "已结案",
+    "caseTags": [
+      "死亡",
+      "存在疑点"
+    ],
+    "entryStatus": "entered"
+  },
+  {
+    "file": "20260805-criminal-017.json",
+    "caseNo": "JZ-XZ-20260708-011",
+    "title": "儿童福利中心集体食物中毒死亡案",
+    "category": "未录入",
+    "status": "侦办中",
+    "date": "2026年7月8日",
+    "location": "江州市晨曦花园阳光儿童福利中心",
+    "people": [
+      "孙渊（重点追捕对象）",
+      "李明浩",
+      "陈宇峰",
+      "周文昊"
+    ],
+    "owner": "黄秋生_071167",
+    "caseType": "涉未成年人事件",
+    "caseStatus": "调查中",
+    "caseTags": [
+      "死亡",
+      "中毒",
+      "未成年人"
+    ],
+    "entryStatus": "pending"
+  },
+  {
+    "file": "JZ-XZ-20170622-033.json",
+    "caseNo": "JZ-XZ-20190622-017",
+    "title": "意外失火案",
+    "category": "意外案件",
+    "status": "已结案",
+    "owner": "黄秋生_071167",
+    "date": "20190622",
+    "location": "江州市朝阳小区c幢11楼",
+    "people": [
+      "林文武",
+      "张文",
+      "林莲莲"
+    ],
+    "accessLevel": "advanced",
+    "caseType": "火灾事故",
+    "caseStatus": "已结案",
+    "caseTags": [
+      "死亡",
+      "火灾",
+      "疑似意外"
+    ],
+    "entryStatus": "entered"
+  }
+]

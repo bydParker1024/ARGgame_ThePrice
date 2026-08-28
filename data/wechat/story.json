@@ -1,0 +1,1354 @@
+{
+  "player": {
+    "id": "self",
+    "name": "我",
+    "avatarUrl": "./assets/avatars/player.jpg",
+    "momentCover": ""
+  },
+  "playerName": "我",
+  "playerAvatarUrl": "./assets/avatars/player.jpg",
+  "contacts": [
+    {
+      "id": "mentor",
+      "name": "师傅",
+      "avatar": "师",
+      "avatarUrl": "./assets/avatars/mentor.jpg",
+      "subtitle": ""
+    },
+    {
+      "id": "xiaolin",
+      "name": "林晓晓",
+      "avatar": "林",
+      "avatarUrl": "./assets/avatars/xiaoxiao.jpg",
+      "subtitle": ""
+    },
+    {
+      "id": "contact-msec3qoi-ibf5",
+      "name": "妈妈",
+      "avatar": "新",
+      "avatarUrl": "./assets/avatars/mama.jpg",
+      "subtitle": ""
+    },
+    {
+      "id": "contact-msy73fgb-dyie",
+      "name": "好大儿",
+      "avatar": "新",
+      "avatarUrl": "./assets/avatars/IDrive.jpg",
+      "subtitle": ""
+    },
+    {
+      "id": "contact-mtb839k0-ihnf",
+      "name": "爸爸",
+      "avatar": "爸",
+      "avatarUrl": "./assets/avatars/Iba.jpg",
+      "subtitle": ""
+    }
+  ],
+  "conversations": [
+    {
+      "id": "mentor",
+      "contactId": "mentor",
+      "updatedAt": "22:18",
+      "messages": [
+        {
+          "id": "mentor-history-20260501-1",
+          "from": "player",
+          "text": "早上好师傅，昨晚那份接警记录我写完了，您有空帮我看一眼吗？",
+          "date": "2026-05-01",
+          "time": "08:06"
+        },
+        {
+          "id": "mentor-history-20260501-2",
+          "from": "mentor",
+          "text": "早。发我吧。先看时间、地点和当事人信息，再看处置经过，别急着改措辞。",
+          "date": "2026-05-01",
+          "time": "08:08"
+        },
+        {
+          "id": "mentor-history-20260501-3",
+          "from": "player",
+          "text": "好，我先按这个顺序自己检查一遍。",
+          "date": "2026-05-01",
+          "time": "08:11"
+        },
+        {
+          "id": "mentor-history-20260504-1",
+          "from": "player",
+          "text": "师傅，监控画面有一段看不清，我在记录里怎么写合适？",
+          "date": "2026-05-04",
+          "time": "14:16"
+        },
+        {
+          "id": "mentor-history-20260504-2",
+          "from": "mentor",
+          "text": "就如实写“画面模糊，无法辨认”，不要凭感觉补。能找其他角度就继续调取。",
+          "date": "2026-05-04",
+          "time": "14:21"
+        },
+        {
+          "id": "mentor-history-20260505-1",
+          "from": "player",
+          "text": "中午还回所里吃饭吗？我这边回访还有两户。",
+          "date": "2026-05-05",
+          "time": "12:07"
+        },
+        {
+          "id": "mentor-history-20260505-2",
+          "from": "mentor",
+          "text": "你先把回访做完，不用赶。我给你留饭，回来热一下就行。",
+          "date": "2026-05-05",
+          "time": "12:09"
+        },
+        {
+          "id": "mentor-history-20260505-3",
+          "from": "player",
+          "text": "那您别又只吃泡面，我尽量一点前回来。",
+          "date": "2026-05-05",
+          "time": "12:16"
+        },
+        {
+          "id": "mentor-history-20260506-1",
+          "from": "player",
+          "text": "师傅，失物招领登记里，捡到地点要写到多细？",
+          "date": "2026-05-06",
+          "time": "08:31"
+        },
+        {
+          "id": "mentor-history-20260506-2",
+          "from": "mentor",
+          "text": "能具体就具体，至少写清道路、门牌附近和大致方位，方便以后核对。",
+          "date": "2026-05-06",
+          "time": "08:34"
+        },
+        {
+          "id": "mentor-history-20260507-1",
+          "from": "player",
+          "text": "刚接到一个租房纠纷，房东和租客都让我评理，我该怎么开口？",
+          "date": "2026-05-07",
+          "time": "15:24"
+        },
+        {
+          "id": "mentor-history-20260507-2",
+          "from": "mentor",
+          "text": "先说明我们来是防止矛盾升级、核实情况。合同争议别随便替他们下结论。",
+          "date": "2026-05-07",
+          "time": "15:28"
+        },
+        {
+          "id": "mentor-history-20260508-1",
+          "from": "player",
+          "text": "师傅，我第一次单独做电话回访，有什么一定要问的吗？",
+          "date": "2026-05-08",
+          "time": "09:06"
+        },
+        {
+          "id": "mentor-history-20260508-2",
+          "from": "mentor",
+          "text": "确认本人、事情有没有解决、对处置是否有异议。话别太像背表格，自然一点。",
+          "date": "2026-05-08",
+          "time": "09:11"
+        },
+        {
+          "id": "mentor-history-20260509-1",
+          "from": "player",
+          "text": "今天值夜班，我需要提前准备什么？",
+          "date": "2026-05-09",
+          "time": "19:38"
+        },
+        {
+          "id": "mentor-history-20260511-1",
+          "from": "player",
+          "text": "这份证人联系方式少了一位，我现在补打电话可以吗？",
+          "date": "2026-05-11",
+          "time": "10:15"
+        },
+        {
+          "id": "mentor-history-20260511-2",
+          "from": "mentor",
+          "text": "可以，先说明身份和来意。补录后把联系时间也写上，别只填一个号码。",
+          "date": "2026-05-11",
+          "time": "10:19"
+        },
+        {
+          "id": "mentor-history-20260513-1",
+          "from": "player",
+          "text": "我把昨天的材料按时间排了，但中间有两份没有签名，是先装卷还是先补？",
+          "date": "2026-05-13",
+          "time": "13:46"
+        },
+        {
+          "id": "mentor-history-20260513-2",
+          "from": "mentor",
+          "text": "先补签名。手续没完整前别急着装卷，列张清单，逐项销掉。",
+          "date": "2026-05-13",
+          "time": "13:48"
+        },
+        {
+          "id": "mentor-history-20260513-3",
+          "from": "player",
+          "text": "明白，我下午联系当事人过来确认。",
+          "date": "2026-05-13",
+          "time": "13:53"
+        },
+        {
+          "id": "mentor-history-20260514-1",
+          "from": "player",
+          "text": "师傅，对方情绪很激动，一直打断我说话，我是不是该提高声音？",
+          "date": "2026-05-14",
+          "time": "09:27"
+        },
+        {
+          "id": "mentor-history-20260514-2",
+          "from": "mentor",
+          "text": "不用跟着他抬音量。让他说完最想解决的事，再把问题一项项拉回来。",
+          "date": "2026-05-14",
+          "time": "09:30"
+        },
+        {
+          "id": "mentor-history-20260515-1",
+          "from": "player",
+          "text": "刚才那家店说监控只能保存七天，我已经口头让他别删，还要做什么？",
+          "date": "2026-05-15",
+          "time": "16:35"
+        },
+        {
+          "id": "mentor-history-20260515-2",
+          "from": "mentor",
+          "text": "把调取手续尽快办好，时间范围写准确。口头说过也要留下工作记录。",
+          "date": "2026-05-15",
+          "time": "16:39"
+        },
+        {
+          "id": "mentor-history-20260517-1",
+          "from": "player",
+          "text": "这起小剐蹭双方已经私下谈好了，我们还需要记录吗？",
+          "date": "2026-05-17",
+          "time": "14:52"
+        },
+        {
+          "id": "mentor-history-20260517-2",
+          "from": "mentor",
+          "text": "既然出了警，基本情况和双方意见还是要记。确认没有人伤，也没有其他争议。",
+          "date": "2026-05-17",
+          "time": "14:54"
+        },
+        {
+          "id": "mentor-history-20260521-1",
+          "from": "player",
+          "text": "刚才同事说我现场记录写得太细，会不会反而不好整理？",
+          "date": "2026-05-21",
+          "time": "15:09"
+        },
+        {
+          "id": "mentor-history-20260521-2",
+          "from": "mentor",
+          "text": "先记准，再整理。关键动作和原话不能丢，重复的背景可以回来后精简。",
+          "date": "2026-05-21",
+          "time": "15:11"
+        },
+        {
+          "id": "mentor-history-20260522-1",
+          "from": "player",
+          "text": "今晚巡逻路线还是从老街口开始吗？",
+          "date": "2026-05-22",
+          "time": "19:52"
+        },
+        {
+          "id": "mentor-history-20260522-2",
+          "from": "mentor",
+          "text": "先去客运站，九点后再绕老街。那边今天有活动，人散场时多看一会儿。",
+          "date": "2026-05-22",
+          "time": "19:55"
+        },
+        {
+          "id": "mentor-history-20260522-3",
+          "from": "player",
+          "text": "好，我把路线记下了，出发前叫您。",
+          "date": "2026-05-22",
+          "time": "19:58"
+        },
+        {
+          "id": "mentor-history-20260523-1",
+          "from": "player",
+          "text": "师傅，报警人后来改口了，我应该把前面的说法删掉吗？",
+          "date": "2026-05-23",
+          "time": "09:41"
+        },
+        {
+          "id": "mentor-history-20260523-2",
+          "from": "mentor",
+          "text": "不能删。前后两次陈述都保留，并问清为什么变化，让他分别确认。",
+          "date": "2026-05-23",
+          "time": "09:45"
+        },
+        {
+          "id": "mentor-history-20260524-1",
+          "from": "player",
+          "text": "这份物证清单的数量和照片对不上，我先按实物改可以吗？",
+          "date": "2026-05-24",
+          "time": "14:03"
+        },
+        {
+          "id": "mentor-history-20260524-2",
+          "from": "mentor",
+          "text": "先停一下，重新清点，找当时在场的人核对。弄清原因后再更正并注明。",
+          "date": "2026-05-24",
+          "time": "14:08"
+        },
+        {
+          "id": "mentor-history-20260525-1",
+          "from": "player",
+          "text": "师傅，我去医院做询问，是等检查结束还是现在过去？",
+          "date": "2026-05-25",
+          "time": "10:56"
+        },
+        {
+          "id": "mentor-history-20260525-2",
+          "from": "mentor",
+          "text": "先跟医院确认不影响治疗。能简单沟通就先核实基本情况，正式询问以身体允许为准。",
+          "date": "2026-05-25",
+          "time": "10:58"
+        },
+        {
+          "id": "mentor-history-20260526-1",
+          "from": "player",
+          "text": "今天处理得有点慢，后面的人等了很久。",
+          "date": "2026-05-26",
+          "time": "17:18"
+        },
+        {
+          "id": "mentor-history-20260526-2",
+          "from": "mentor",
+          "text": "慢一点不怕，别乱。你可以先告诉后面的人大概要等多久，他们心里就有数。",
+          "date": "2026-05-26",
+          "time": "17:21"
+        },
+        {
+          "id": "mentor-history-20260526-3",
+          "from": "player",
+          "text": "知道了，下次我会先解释，不让人干等。",
+          "date": "2026-05-26",
+          "time": "17:23"
+        },
+        {
+          "id": "mentor-history-20260527-1",
+          "from": "player",
+          "text": "师傅，调解结束后双方都说没事了，还需要他们签字吗？",
+          "date": "2026-05-27",
+          "time": "13:21"
+        },
+        {
+          "id": "mentor-history-20260527-2",
+          "from": "mentor",
+          "text": "需要。把达成的意见写清楚，让双方看完再签，口头说“没事”不能代替记录。",
+          "date": "2026-05-27",
+          "time": "13:25"
+        },
+        {
+          "id": "mentor-history-20260528-1",
+          "from": "player",
+          "text": "明天我能不能自己负责那次社区走访？",
+          "date": "2026-05-28",
+          "time": "08:44"
+        },
+        {
+          "id": "mentor-history-20260528-2",
+          "from": "mentor",
+          "text": "可以，你主问，我在旁边听。材料今晚发我看一下，别到了现场才想问题。",
+          "date": "2026-05-28",
+          "time": "08:49"
+        },
+        {
+          "id": "mentor-history-20260529-1",
+          "from": "player",
+          "text": "师傅，您上次说判断异常要看前后细节，具体怎么练？",
+          "date": "2026-05-29",
+          "time": "18:37"
+        },
+        {
+          "id": "mentor-history-20260529-2",
+          "from": "mentor",
+          "text": "每次先列确定的事实，再列说不通的地方。不要先猜答案，拿证据一个个排除。",
+          "date": "2026-05-29",
+          "time": "18:39"
+        },
+        {
+          "id": "mentor-history-20260530-1",
+          "from": "player",
+          "text": "月底这些回访表我都核完了，您还要再看一遍吗？",
+          "date": "2026-05-30",
+          "time": "20:06"
+        },
+        {
+          "id": "mentor-history-20260530-2",
+          "from": "mentor",
+          "text": "抽几份给我看就行。你这次比上个月稳多了，姓名、时间和反馈都对得上。",
+          "date": "2026-05-30",
+          "time": "20:09"
+        },
+        {
+          "id": "mentor-history-20260530-3",
+          "from": "player",
+          "text": "那晚上我请您吃面，算是谢谢师傅验收。",
+          "date": "2026-05-30",
+          "time": "20:15"
+        },
+        {
+          "id": "mentor-history-20260531-3",
+          "from": "player",
+          "text": "师傅，你请假两天了，晓晓还好吗，有什么事情我能帮帮忙吗。",
+          "date": "2026-06-02",
+          "time": "17:47"
+        },
+        {
+          "id": "mentor-history-20260531-1",
+          "from": "player",
+          "text": "师傅，今天不加班，我也来看晓晓吧",
+          "date": "2026-06-05",
+          "time": "16:45"
+        },
+        {
+          "id": "mentor-history-20260531-2",
+          "from": "mentor",
+          "text": "好 在**江州市第二人民医院**",
+          "date": "2026-05-31",
+          "time": "17:10"
+        },
+        {
+          "id": "message-msedrk05-ghre",
+          "from": "player",
+          "text": "师傅 今天晓晓找我聊过天了 有事情就和我说 我肯定能帮就帮你，晓晓是好孩子，会等到好心人的。",
+          "date": "2026-06-13",
+          "time": "21:18"
+        },
+        {
+          "id": "message-mseeht90-ebrc",
+          "from": "mentor",
+          "text": "好 谢谢你 小王",
+          "date": "",
+          "time": "20:20"
+        },
+        {
+          "id": "m1",
+          "from": "mentor",
+          "text": "小王 医院那边打电话找我 我去看一下晓晓 桌上的档案前几天我拿出来了，新的系统要录入电子档案，我还没有做完，你帮我做一下。",
+          "time": "20:12",
+          "date": "2026-07-01"
+        },
+        {
+          "id": "m2",
+          "from": "player",
+          "text": "没问题 师傅 你注意安全",
+          "time": "20:15"
+        }
+      ],
+      "replies": []
+    },
+    {
+      "id": "xiaolin",
+      "contactId": "xiaolin",
+      "updatedAt": "昨天",
+      "messages": [
+        {
+          "id": "m3",
+          "from": "xiaolin",
+          "text": "谢谢你来看我",
+          "time": "16:46",
+          "date": "2026-06-05"
+        },
+        {
+          "id": "message-msbf2i0s-fahp",
+          "from": "player",
+          "text": "没事没事 你安心养病 师傅平常这么照顾我 来看看你是应该的",
+          "time": "16:26",
+          "date": "2026-06-05"
+        },
+        {
+          "id": "message-msbgdnqt-ql86",
+          "from": "xiaolin",
+          "text": "我爸爸遇到事情总是冲前面 ，我现在人在医院，你能帮我看着他点吗，我怕他也出事。",
+          "time": "16:47",
+          "date": "2026-06-05"
+        },
+        {
+          "id": "message-msbgm555-hadr",
+          "from": "player",
+          "text": "没问题没问题 你放心好啦 安心养病",
+          "time": "16:50",
+          "date": "2026-06-05"
+        },
+        {
+          "id": "message-msbgxw6t-h6zp",
+          "from": "xiaolin",
+          "text": "哥哥 你说我还能等到心脏吗 我看到爸爸和医生谈完以后一个人在走廊里抽烟了",
+          "date": "2026-06-13",
+          "time": "08:28"
+        },
+        {
+          "id": "message-msbh5lul-qznx",
+          "from": "player",
+          "text": "没事的 晓晓 还没有严重到明天会有蜘蛛侠和蝙蝠侠来看你啦。",
+          "date": "2026-06-13",
+          "time": "09:15"
+        },
+        {
+          "id": "message-msbh85uk-nv4u",
+          "from": "xiaolin",
+          "text": "哈哈哈哈",
+          "date": "2026-06-13",
+          "time": "09:16"
+        },
+        {
+          "id": "message-msbh8jcl-aj6q",
+          "from": "player",
+          "text": "哈哈哈 笑了就好，没关系的，我之前也生病过的，当时医生就让我静养一段时间，结果我直接不省人事了，各种医院也检查不出来结果，当时我都在想是想看蜘蛛侠还是奥特曼了",
+          "date": "2026-06-13",
+          "time": "21:16"
+        },
+        {
+          "id": "message-msbhiuhk-1t8g",
+          "from": "xiaolin",
+          "text": "刚刚护士来给我换药了，那然后呢？",
+          "date": "2026-06-13",
+          "time": "21:20"
+        },
+        {
+          "id": "message-msbhjhrp-7tn0",
+          "from": "player",
+          "text": "然后啊 说出来你不信 我慢慢就好了 甚至高考还超长发挥了 所以说吉人自有天相，你安心养病就好啦。",
+          "date": "2026-06-13",
+          "time": "21:22"
+        },
+        {
+          "id": "message-msbi1ni4-8vi1",
+          "from": "xiaolin",
+          "text": "哈哈哈 爸爸和我说过了 他说你那是傻人自有傻福。",
+          "date": "2026-06-13",
+          "time": "21:23"
+        },
+        {
+          "id": "message-msbiqr07-kalo",
+          "from": "player",
+          "text": "",
+          "date": "2026-06-13",
+          "time": "21:25",
+          "imageUrl": "./assets/chat-images/e1bb6d33699b21e5597113ab1811e77c-2.png"
+        },
+        {
+          "id": "message-msbir7ou-jeye",
+          "from": "xiaolin",
+          "text": "",
+          "date": "2026-06-13",
+          "time": "21:26",
+          "imageUrl": "./assets/chat-images/b4ab8733962dc655ed2bec4c044f07cd-2.png"
+        }
+      ],
+      "replies": []
+    },
+    {
+      "id": "mom",
+      "contactId": "contact-msec3qoi-ibf5",
+      "updatedAt": "",
+      "messages": [
+        {
+          "id": "message-msede04e-yfau",
+          "from": "contact-msec3qoi-ibf5",
+          "text": "下班了吗，儿子",
+          "date": "2026-06-08",
+          "time": "18:10"
+        },
+        {
+          "id": "message-msedfti6-t73x",
+          "from": "player",
+          "text": "还没，师傅今天有事情去医院，我替他值个班",
+          "date": "2026-06-08",
+          "time": "18:11"
+        },
+        {
+          "id": "message-msedgqkt-bv76",
+          "from": "contact-msec3qoi-ibf5",
+          "text": "好，那你记得吃晚饭。你师傅这么照顾你，你帮帮他也是应该的。",
+          "date": "2026-06-08",
+          "time": "18:14"
+        },
+        {
+          "id": "message-msedht2p-61ek",
+          "from": "player",
+          "text": "吃过了吃过了",
+          "date": "2026-06-08",
+          "time": "18:15"
+        },
+        {
+          "id": "message-msedin0v-ii6b",
+          "from": "contact-msec3qoi-ibf5",
+          "text": "你别又吃那些垃圾食品，什么薯条汉堡的，今年记得到时间去体检，你也是生过重病的人。",
+          "date": "2026-06-08",
+          "time": "18:19"
+        },
+        {
+          "id": "message-msedkait-rs4h",
+          "from": "player",
+          "text": "我知道，我知道，那都高三时候的事情了，都多少年了，我早就好了。你和老爸放心好了，我接着忙了，电话就不打了，你们早点休息。",
+          "date": "2026-06-08",
+          "time": "18:23"
+        }
+      ],
+      "replies": []
+    },
+    {
+      "id": "chat-msy795ux-aga6",
+      "contactId": "contact-msy73fgb-dyie",
+      "updatedAt": "",
+      "messages": [
+        {
+          "id": "message-msy798au-tfx3",
+          "from": "contact-msy73fgb-dyie",
+          "text": "受不了啦 家里又在催我相亲了",
+          "date": "2026-06-22",
+          "time": "09:29"
+        },
+        {
+          "id": "message-msy7cazx-8t8c",
+          "from": "self",
+          "text": "你不是和我一样02的吗？急什么啊？",
+          "date": "2026-06-22",
+          "time": "09:32"
+        },
+        {
+          "id": "message-msy7dhxd-xdr6",
+          "from": "contact-msy73fgb-dyie",
+          "text": "实岁24 虚岁25 眨眨眼26 转眼27 马上30了。我最烦相亲了，我不会说话啊",
+          "date": "2026-06-22",
+          "time": "09:36"
+        },
+        {
+          "id": "message-msy7fbek-nkr6",
+          "from": "self",
+          "text": "没有关系，你还是对自己太自信了，我觉得你坐下的那一刻，这一切就结束了",
+          "date": "2026-06-22",
+          "time": "09:40"
+        },
+        {
+          "id": "message-msy7h2tr-ma93",
+          "from": "contact-msy73fgb-dyie",
+          "text": "wdnmd",
+          "date": "2026-06-22",
+          "time": "09:41",
+          "imageUrl": "./assets/chat-images/eda88daa-d004-4273-bdeb-a0a3267e2559-2.png"
+        },
+        {
+          "id": "message-msy7j0xc-hz28",
+          "from": "contact-msy73fgb-dyie",
+          "text": "上号",
+          "date": "2026-06-26",
+          "time": "17:43",
+          "imageUrl": "./assets/chat-images/3bc09e1a-e6ef-4b19-a54e-1a0dc246689a-2.png"
+        },
+        {
+          "id": "message-msy7ktg2-g7db",
+          "from": "self",
+          "text": "111",
+          "date": "2026-06-26",
+          "time": "17:44"
+        }
+      ],
+      "replies": []
+    }
+  ],
+  "moments": [
+    {
+      "id": "moment-msxhgfk3-6eoa",
+      "authorId": "self",
+      "date": "2024-06-22",
+      "time": "08:30",
+      "text": "警员073526很高兴为您服务！",
+      "images": [
+        "./assets/chat-images/c73bbda9-4eb3-4509-b65e-1bb8857157c8-2.png"
+      ],
+      "likes": [
+        {
+          "authorId": "self"
+        },
+        {
+          "authorId": "contact-msec3qoi-ibf5"
+        }
+      ],
+      "comments": [
+        {
+          "authorId": "contact-msec3qoi-ibf5",
+          "text": "发的什么玩意！"
+        },
+        {
+          "authorId": "contact-msy73fgb-dyie",
+          "text": "给我擦皮鞋"
+        }
+      ]
+    },
+    {
+      "id": "moment-msy76o4o-l436",
+      "authorId": "self",
+      "date": "2025-04-08",
+      "time": "00:00",
+      "text": "24岁 是警察（喜）  祝自己生日快乐",
+      "images": [
+        "./assets/chat-images/3dcc4fc2-696a-4f69-a51f-b89aaf6a971f-2.png"
+      ],
+      "likes": [
+        {
+          "authorId": "self"
+        },
+        {
+          "authorId": "contact-msec3qoi-ibf5"
+        },
+        {
+          "authorId": "contact-msy73fgb-dyie"
+        }
+      ],
+      "comments": []
+    },
+    {
+      "id": "moment-mtb6wbys-5927",
+      "authorId": "mentor",
+      "date": "2025-09-03",
+      "time": "18:30",
+      "text": "谢谢女儿",
+      "images": [
+        "./assets/chat-images/fc8a9f6c63cc449340d555a22f4ba29b-2.png",
+        "./assets/chat-images/39c04cd38c2ee6453676317ee21db07d-2.png"
+      ],
+      "likes": [
+        {
+          "authorId": "xiaolin"
+        },
+        {
+          "authorId": "self"
+        }
+      ],
+      "comments": [
+        {
+          "authorId": "xiaolin",
+          "text": "生日快乐！"
+        }
+      ]
+    },
+    {
+      "id": "moment-mtb7qt9q-t0rn",
+      "authorId": "contact-msy73fgb-dyie",
+      "date": "2026-06-08",
+      "time": "02:40",
+      "text": "I’m letting go~",
+      "images": [
+        "./assets/chat-images/4761f981-61b7-44ee-ad9c-05247f7313d4-2.png"
+      ],
+      "likes": [
+        {
+          "authorId": "self"
+        }
+      ],
+      "comments": [
+        {
+          "authorId": "self",
+          "text": "又没追到是吧 失败的man"
+        },
+        {
+          "authorId": "contact-msy73fgb-dyie",
+          "text": "你不懂 小茹只是慢热型，我将以高冷形态出击"
+        }
+      ]
+    },
+    {
+      "id": "moment-mtb7y0re-1nkp",
+      "authorId": "xiaolin",
+      "date": "2025-08-30",
+      "time": "",
+      "text": "不想开学",
+      "images": [
+        "./assets/chat-images/a75f7bea-56c5-4f81-8b74-8fc45fbdb5be-2.png"
+      ],
+      "likes": [],
+      "comments": []
+    },
+    {
+      "id": "moment-mtb81f1e-yxdu",
+      "authorId": "contact-msec3qoi-ibf5",
+      "date": "2026-03-25",
+      "time": "20:30",
+      "text": "今天手气好啊",
+      "images": [
+        "./assets/chat-images/7f69e550-aa47-4bfa-ae88-2bbb33119d5a-2.png"
+      ],
+      "likes": [
+        {
+          "authorId": "self"
+        },
+        {
+          "authorId": "contact-mtb839k0-ihnf"
+        }
+      ],
+      "comments": []
+    }
+  ],
+  "miniPrograms": [
+    {
+      "id": "fishing",
+      "type": "fishing",
+      "name": "今天你摸鱼了吗",
+      "description": "今天水里能钓到什么？",
+      "searchKeywords": [
+        "今天你摸鱼了吗",
+        "摸鱼",
+        "钓鱼",
+        "fishing"
+      ],
+      "fishing": {
+        "waitMinMs": 1800,
+        "waitMaxMs": 4200,
+        "reactionMs": 1100,
+        "items": [
+          {
+            "name": "水里的刀哥",
+            "note": "天上的卡兹不说话，水里的刀哥想妈妈",
+            "imageUrl": "./assets/chat-images/6a243eb2-4d00-45a5-b56c-e8607b2c748f-2.png"
+          },
+          {
+            "name": "溶于水的阿泰尔",
+            "note": "一代刺客大师，可惜不会游泳",
+            "imageUrl": "./assets/chat-images/c583f2f2-443e-4373-bbb7-db34106eac7a-2.png"
+          },
+          {
+            "name": "某个不会游泳的草帽小子",
+            "note": "去找吧 我把所有的宝藏都放在了...",
+            "imageUrl": "./assets/chat-images/5f9107e9-32ae-4c65-b7f8-b46628985e15-2.png"
+          },
+          {
+            "name": "七海之主",
+            "note": "哥们 你身体上那只章鱼是什么意思",
+            "imageUrl": "./assets/chat-images/dd92ae08-72de-466d-99d0-8bc974ddedb0-2.png"
+          },
+          {
+            "name": "河豚",
+            "note": "该请老板吃一顿大餐了",
+            "imageUrl": "./assets/chat-images/0a1a3eb3-5e56-47d0-8876-e535eae283e1-2.png"
+          },
+          {
+            "name": "摸鱼",
+            "note": "摸鱼小游戏中摸鱼 恭喜你工资真的是你赚来的",
+            "imageUrl": "./assets/chat-images/c46aaa27-0f6d-4853-baaa-fa73664db3df-2.png"
+          },
+          {
+            "name": "河神",
+            "note": "年轻的牛马哟 你掉的是这个星巴克 还是这杯瑞星 还是这杯蜜雪冰城哟",
+            "imageUrl": "./assets/chat-images/9e0c7db2-96b1-4160-ae09-13a582829aaf-2.png"
+          },
+          {
+            "name": "四星球龙珠",
+            "note": "集齐七颗有好运哦",
+            "imageUrl": "./assets/chat-images/c44b3a2f-4acf-4823-ba76-9a7f7bf4efd4-2.png"
+          },
+          {
+            "name": "巨人石像",
+            "note": "想要巨人复苏的办法只有一个 那就是。。。",
+            "imageUrl": "./assets/chat-images/b751ff84-f42f-478e-aeeb-8eea4a75b0b2-2.png"
+          },
+          {
+            "name": "小丑鱼尼*",
+            "note": "你爸呢？你们又走丢了？",
+            "imageUrl": "./assets/chat-images/65da672c-c08d-4479-828e-6dc7972a0bbc-2.png"
+          },
+          {
+            "name": "狱门疆",
+            "note": "最强的战绩铭刻于...",
+            "imageUrl": "./assets/chat-images/84be6d21-31ad-4763-98c6-a5c6dc1f7b18-2.png"
+          },
+          {
+            "name": "如意金箍棒",
+            "note": "这玩意你是怎么钓得动的？",
+            "imageUrl": "./assets/chat-images/da324607-cd88-4af6-80af-66f4ab82c0ae-2.png"
+          },
+          {
+            "name": "鲤鱼王",
+            "note": "鲤鱼王使用了水溅跃 效果...",
+            "imageUrl": "./assets/chat-images/5f583b99-5249-4281-86c5-b2666cd161cd-2.png"
+          },
+          {
+            "name": "河童",
+            "note": "你闺蜜的对象belike...",
+            "imageUrl": "./assets/chat-images/d3239708-59e8-4473-b80a-08cbcc43014e-2.png"
+          },
+          {
+            "name": "鲤鱼",
+            "note": "鲤鱼适应性强，常栖息于水草丰富、底质松软的淡水水域。",
+            "imageUrl": "./assets/mini-programs/fishing/fish/common-carp.png"
+          },
+          {
+            "name": "鲫鱼",
+            "note": "鲫鱼耐低氧、耐寒能力较强，是我国最常见的淡水鱼之一。",
+            "imageUrl": "./assets/mini-programs/fishing/fish/crucian-carp.png"
+          },
+          {
+            "name": "草鱼",
+            "note": "草鱼以水生植物为主要食物，因而得名。",
+            "imageUrl": "./assets/mini-programs/fishing/fish/grass-carp.png"
+          },
+          {
+            "name": "鲢鱼",
+            "note": "鲢鱼主要滤食浮游生物，对控制水体藻类有一定作用。",
+            "imageUrl": "./assets/mini-programs/fishing/fish/silver-carp.png"
+          },
+          {
+            "name": "鳙鱼",
+            "note": "鳙鱼头部较大，主要以浮游动物为食。",
+            "imageUrl": "./assets/mini-programs/fishing/fish/bighead-carp.png"
+          },
+          {
+            "name": "鳜鱼",
+            "note": "鳜鱼是凶猛的肉食性淡水鱼，常伏击小鱼小虾。",
+            "imageUrl": "./assets/mini-programs/fishing/fish/mandarin-fish.png"
+          },
+          {
+            "name": "青鱼",
+            "note": "青鱼善于咬碎螺蛳和蚌类等硬壳动物。",
+            "imageUrl": "./assets/mini-programs/fishing/fish/black-carp.png"
+          },
+          {
+            "name": "鲶鱼",
+            "note": "鲶鱼依靠触须感知环境，多在夜间或浑水中觅食。",
+            "imageUrl": "./assets/mini-programs/fishing/fish/catfish.png"
+          },
+          {
+            "name": "大口黑鲈",
+            "note": "大口黑鲈原产北美，是广受钓鱼爱好者欢迎的掠食性鱼类。",
+            "imageUrl": "./assets/mini-programs/fishing/fish/largemouth-bass.png"
+          },
+          {
+            "name": "罗非鱼",
+            "note": "罗非鱼繁殖力强、适应性广，在温暖水域生长较快。",
+            "imageUrl": "./assets/mini-programs/fishing/fish/tilapia.png"
+          },
+          {
+            "name": "神秘金发老人",
+            "note": "Heavy machine gun~",
+            "imageUrl": "./assets/chat-images/3025da74-2beb-4107-87ac-c0522bac719e-2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "officialAccounts": [
+    {
+      "id": "jz-second-peoples-hospital",
+      "name": "江州市第二人民医院",
+      "accountType": "official",
+      "avatarUrl": "./assets/wechat/official/jz-second-hospital/avatar.png",
+      "description": "便民医疗服务",
+      "articles": [
+        {
+          "id": "hospital-article-summer-heart",
+          "title": "夏季高温来临，警惕这些心血管危险信号",
+          "imageUrl": "./assets/wechat/official/jz-second-hospital/article-summer-heart.png",
+          "summary": ""
+        },
+        {
+          "id": "hospital-article-palpitations",
+          "title": "胸闷、心悸一定是心脏病吗？这些情况需要及时就医",
+          "imageUrl": "./assets/wechat/official/jz-second-hospital/article-palpitations.png",
+          "summary": "",
+          "body": "胸闷、心悸是日常生活中较为常见的不适症状。出现这些症状，并不意味着一定患有心脏疾病，但也不建议长期忽视。\n\n心悸通常表现为能够明显感觉到自己的心跳，有些人会描述为“心跳得很快”“突然漏跳一下”或“胸口怦怦跳”。剧烈运动、情绪紧张、睡眠不足、饮用大量咖啡或浓茶等，都可能引起短暂的心悸。\n\n胸闷的原因则更加复杂。除心血管疾病外，呼吸系统疾病、贫血、焦虑紧张以及过度疲劳等情况，也可能出现类似表现。\n\n如果胸闷、心悸只是偶尔出现，持续时间较短，并且休息后能够缓解，可以先注意近期睡眠、情绪和生活状态。\n\n**建议及时就医的情况**\n\n• 胸闷或胸痛持续不能缓解；\n• 明显心悸同时伴有头晕、乏力；\n• 活动后反复出现胸部不适；\n• 出现呼吸困难、冷汗；\n• 短时间内反复发作；\n• 既往存在高血压、冠心病或其他心血管疾病。\n\n医生通常会根据症状和个人情况安排心电图、动态心电图、心脏超声以及相关实验室检查。仅凭“胸口不舒服”很难自行判断病因；对于反复出现的不适，与其长期担心，不如进行一次规范检查。\n\n如出现明显胸痛、呼吸困难、意识异常等情况，应及时前往医院就诊。"
+        },
+        {
+          "id": "hospital-article-child-health",
+          "title": "暑期儿童健康提醒：出现这些症状不要拖",
+          "imageUrl": "./assets/wechat/official/jz-second-hospital/article-child-health.png",
+          "summary": ""
+        },
+        {
+          "id": "hospital-article-outpatient-guide",
+          "title": "江州市第二人民医院门诊就诊指南",
+          "imageUrl": "./assets/wechat/official/jz-second-hospital/article-outpatient-guide.png",
+          "summary": ""
+        }
+      ],
+      "patients": [
+        {
+          "id": "patient-xiaoxiao",
+          "aliases": [
+            "林晓晓",
+            "李晓晓",
+            "晓晓"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "江州市第二人民医院",
+        "第二人民医院",
+        "江州二院",
+        "二院"
+      ],
+      "services": [
+        {
+          "id": "outpatient",
+          "label": "门诊服务",
+          "unavailableMessage": "门诊服务暂未开放"
+        },
+        {
+          "id": "online-care",
+          "label": "线上就医",
+          "unavailableMessage": "线上就医暂未开放"
+        },
+        {
+          "id": "medical-record-search",
+          "label": "病历查询"
+        }
+      ],
+      "medicalRecords": [
+        {
+          "id": "test-record-001",
+          "keywords": [
+            "TEST001",
+            "测试患者甲",
+            "共享测试关键词"
+          ],
+          "patientName": "测试患者甲",
+          "gender": "未设置",
+          "age": "18",
+          "visitDate": "2020/04/08",
+          "department": "测试科室",
+          "diagnosis": "测试诊断",
+          "summary": "开发测试病历，仅用于验证查询链路。",
+          "doctor": "测试医生",
+          "note": "测试数据"
+        },
+        {
+          "id": "test-record-002",
+          "keywords": [
+            "TEST002",
+            "测试患者乙",
+            "共享测试关键词"
+          ],
+          "patientName": "测试患者乙",
+          "gender": "未设置",
+          "age": "19",
+          "visitDate": "2020/04/09",
+          "department": "测试科室",
+          "diagnosis": "测试诊断",
+          "summary": "开发测试病历，仅用于验证多结果查询。",
+          "doctor": "测试医生",
+          "note": "测试数据"
+        },
+        {
+          "id": "xiaoxiao-20260716",
+          "patientId": "patient-xiaoxiao",
+          "keywords": [],
+          "patientName": "林晓晓",
+          "gender": "女",
+          "age": "",
+          "visitDate": "2026/07/16",
+          "department": "心血管内科",
+          "diagnosis": "扩张型心肌病，终末期心力衰竭",
+          "summary": "患者因反复胸闷、气促、活动耐量明显下降就诊。相关检查提示心脏扩大，左心室收缩功能明显减退。经药物及支持治疗后症状改善有限，当前心功能状态较差。",
+          "treatment": "建议进一步完成心脏移植相关评估。如符合移植指征及手术条件，建议尽快进入移植等待流程，并继续接受心力衰竭规范化治疗及动态监测。",
+          "doctor": "陈文博",
+          "note": "建议家属配合完成后续移植评估及相关检查。"
+        },
+        {
+          "id": "xiaoxiao-20160708",
+          "patientId": "patient-xiaoxiao",
+          "keywords": [],
+          "patientName": "李晓晓",
+          "gender": "女",
+          "age": "",
+          "visitDate": "2016/07/08",
+          "department": "儿童保健科",
+          "purpose": "收养前健康评估",
+          "diagnosis": "儿童常规健康体检，未见明显异常。",
+          "summary": "受检儿童一般情况良好，精神及营养状态尚可。心肺听诊未见明显异常，腹部查体未见明显异常。常规血液检查结果未见明显异常，生长发育情况基本符合年龄特点。",
+          "doctor": "",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "wenlian-charity-foundation",
+      "name": "文莲慈善基金会",
+      "accountType": "official",
+      "avatarUrl": "assets/wechat/official/wenlian-charity-foundation/avatar.png",
+      "description": "传递善意，汇聚希望。",
+      "searchKeywords": [
+        "文莲慈善基金会",
+        "文莲基金会",
+        "文莲"
+      ],
+      "articles": [
+        {
+          "id": "wenlian-old-text-gain-loss",
+          "title": "旧文拾遗｜古人眼中的得与失",
+          "imageUrl": "assets/wechat/official/wenlian-charity-foundation/article-old-text-gain-loss.png",
+          "date": "2022-10-18",
+          "summary": "从旧文字里重新理解给予、陪伴与希望。",
+          "body": "导语：人生总在得与失之间前行。古人借生死、得失和亲缘理解人与世界的关系；今天重读这些文字，我们看到的不只是感叹，也看见了人在困境中彼此扶持的可能。\n\n【从无常里理解陪伴】生、老、病、死是每个人都会面对的人生课题。公益服务往往从一段耐心的倾听开始：有人在病榻前等待消息，有人在生活转折处重新学习面对失去，也有人因陌生人的帮助，重新获得继续向前的勇气。我们无法替谁消除所有难处，却可以在需要被看见时，不让一份请求孤零零地停在原地。\n\n【得与失之间的回响】旧文摘录：\n\n**四苦者，生、老、病、死也。两端者，得、失也。亲者为契，血者为引。易者，换也。**\n\n古人借生老病死言人生无常，以得失观世事流转。放在今天的公益语境中，得与失并不只是结果的计量，也关乎人们如何在有限的时间、资源和心力里互相照应。一份物资、一次陪诊、一通回访电话，看似细小，却可能让一个家庭多一分从容。\n\n【让善意落在日常】基金会的工作并不追求轰动的瞬间。我们更珍惜持续的连接：把需求说清，把资源对接好，把后续的关心留在普通日子里。愿每一份被看见的需要，都能得到温柔回应；愿每一次伸出的手，都让同行的人多一分安心。"
+        },
+        {
+          "id": "wenlian-summer-community",
+          "title": "夏日关怀｜文莲志愿者走进社区",
+          "imageUrl": "assets/wechat/official/wenlian-charity-foundation/article-summer-community.png",
+          "date": "2022-08-06",
+          "summary": "把清凉与问候送到社区老人身边。",
+          "body": "导语：盛夏的热浪会放大许多日常困难。对独居老人、行动不便者和慢病家庭而言，一瓶清凉饮水、一句及时问候，都可能比想象中更重要。这个夏天，文莲志愿者走进多个社区，把防暑物资和陪伴一起送到门前。\n\n【先问一声近况】入户前，志愿者与社区工作人员逐户确认联络方式和身体情况；入户时，不急着把物资放下就离开，而是先坐下来聊几句。空调是否正常、常用药是否充足、近期有没有需要帮忙跑腿的事，都是被认真记录的小问题。\n\n【把提醒说得更明白】志愿者准备了简明的防暑提示，提醒大家在高温时段减少外出、注意补水，并留意室内通风和用电安全。对于不熟悉手机操作的老人，大家还演示了如何联系社区和家人。关怀不是一张清单，而是尽量让每个人都能用得上的办法。\n\n【让联系不断线】活动结束后，社区志愿服务小组会继续电话回访，并把需要进一步协助的情况转交给相关服务点。我们相信，真正可靠的支持不只发生在一次探访里，而是发生在一次次普通的问候中。愿这个夏天的清凉，能留在每一扇被敲开的门后。"
+        },
+        {
+          "id": "wenlian-child-support-review",
+          "title": "微光成炬｜儿童帮扶项目阶段回顾",
+          "imageUrl": "assets/wechat/official/wenlian-charity-foundation/article-child-support-review.png",
+          "date": "2022-05-21",
+          "summary": "学习物资与持续回访，陪伴孩子稳步成长。",
+          "body": "导语：儿童帮扶不只是送出一套文具或一份书单，更重要的是让孩子在成长路上感到自己被稳定地看见。本阶段，文莲儿童帮扶项目完成了学习物资发放、家庭回访和社区阅读活动，为困难家庭提供了更贴近实际的支持。\n\n【把资源送到需要处】项目组根据家庭反馈准备了书包、学习用品、课外读物和必要的生活用品，并与社区工作者核对领取信息。我们尽量避免以统一模板替代真实需要：有的孩子更需要阅读材料，有的家庭更希望减轻新学期的日常负担。\n\n【陪伴不止一次见面】志愿者在回访中了解孩子的学习节奏、居住环境和情绪状态，也认真听家长谈起他们面临的难题。很多问题没有立刻的答案，但持续的联系能让家庭知道，求助并不是一件需要独自承担的事。\n\n【让小小的愿望被认真对待】阅读活动里，孩子们分享喜欢的故事，也写下新学期想学会的一件事。愿望或许简单，却值得被认真倾听。我们会继续与学校、社区和合作伙伴保持联动，让每一束微光都能在更长的时间里汇成温暖的力量。"
+        },
+        {
+          "id": "wenlian-medical-aid",
+          "title": "与爱同行｜医疗援助项目纪实",
+          "imageUrl": "assets/wechat/official/wenlian-charity-foundation/article-medical-aid.png",
+          "date": "2022-03-12",
+          "summary": "让需要帮助的家庭获得更多医疗支持。",
+          "body": "导语：疾病带来的压力，往往不止于诊室和检查单。对不少家庭而言，如何获取可靠信息、如何衔接合适资源、如何在漫长治疗中维持生活秩序，同样是迫切的问题。文莲医疗援助项目持续与医护、社区和公益伙伴合作，提供咨询、转介与必要支持。\n\n【先把信息理清】项目咨询中，我们会协助来访家庭梳理已有材料、了解就医进度，并在力所能及的范围内提供流程说明。我们不替代专业诊疗，也不做夸大的承诺；更希望用清楚、诚实的信息，减少家庭在陌生流程中的无措。\n\n【连接可用的支持】对于符合条件的家庭，项目会协助对接社会救助、公益援助和社区服务资源。资源并不总是充足，因此每一次转介都需要仔细核实。感谢参与项目的医护人员、合作机构与捐赠者，让有限的支持能够尽量落到真正需要的地方。\n\n【同行是一段过程】援助不是一次性完成的动作。后续回访里，我们关心治疗进展，也关心照护者是否有喘息的空间。愿每个正在与病痛相处的家庭，都能在必要的时候得到一份可靠、克制而持续的陪伴。"
+        },
+        {
+          "id": "wenlian-annual-thanks",
+          "title": "这一程，我们一起走过",
+          "imageUrl": "assets/wechat/official/wenlian-charity-foundation/article-annual-thanks.png",
+          "date": "2021-12-30",
+          "summary": "年度公益服务回顾，感谢每一位同行者。",
+          "body": "导语：这一年，我们走过许多平常的日子：社区里的问候、儿童活动室的一次读书会、医院走廊外耐心的等待，以及电话那头一句“最近还好吗”。它们不一定被许多人看见，却共同构成了公益服务最真实的样子。\n\n【每一份投入都有回声】志愿者腾出周末探访，合作机构提供专业支持，捐赠者把信任交给项目，社区工作者则把细致的需求反馈带回。许多工作没有聚光灯，却需要反复确认、耐心沟通和长期坚持。正是这些看似微小的环节，让服务得以稳稳落地。\n\n【感谢愿意同行的人】我们感谢每一位把时间、技能和善意投入行动的人，也感谢每一位愿意说出困难、接受帮助的朋友。被帮助从来不是单向的关系；在一次次相遇中，我们也重新理解了信任、尊重和彼此成全。\n\n【把脚步继续向前】新的一年，文莲仍会认真倾听、踏实陪伴，持续改进服务细节，并与更多伙伴携手。愿善意不止停留在表达里，而能变成可抵达的问候、可使用的资源和不轻易中断的联系。谢谢这一程，我们一起走过。"
+        }
+      ],
+      "services": [],
+      "patients": [],
+      "medicalRecords": []
+    },
+    {
+      "id": "jiangzhou-detective-club",
+      "name": "江州侦探社",
+      "accountType": "official",
+      "avatarUrl": "./assets/avatars/jiangzhou-detective.png",
+      "description": "从细节出发，聊聊案件、密码与推理。",
+      "searchKeywords": [
+        "江州侦探社",
+        "侦探社"
+      ],
+      "articles": [
+        {
+          "id": "detective-morse",
+          "title": "电报码、摩斯与那些藏在声音里的字母",
+          "imageUrl": "assets/article/detective-morse-code.jpg",
+          "date": "2022-11-08",
+          "summary": "从电报时代到无线通信，一起读懂点与划。",
+          "body": "导语：在即时通信出现之前，人们怎样把一句话送到遥远的地方？十九世纪的电报通信给出了一个朴素而迷人的答案：把文字拆成可以沿线路传递的长短信号。Samuel Morse 参与发展的摩斯电码，正是在这样的时代背景中逐渐普及，并随着电报和无线通信进入更多人的生活。\n\n【点、划与间隔】点 . 是较短的信号，也常被称为短音；划 - 是较长的信号，也常被称为长音。同一个字母由一组点划组成，字母内部的信号连续出现；字母之间要留出更清楚的间隔，单词之间的间隔则更长。实际听辨时，关键并非只看符号，而是感受短音、长音和停顿组成的节奏。\n\n【A—Z 速查】A .-　B -...　C -.-.　D -..　E .　F ..-.　G --.　H ....　I ..　J .---　K -.-　L .-..　M --\nN -.　O ---　P .--　Q --.-　R .-.　S ...　T -　U ..-　V ...-　W .--　X -..-　Y -.--　Z --..\n\n【数字速查】0 -----　1 .----　2 ..---　3 ...--　4 ....-　5 .....　6 -....　7 --...　8 ---..　9 ----.\n\n【为什么它仍值得了解】今天的通信技术早已改变，但摩斯电码保留着一种清晰的思维方式：用有限规则组织复杂信息。把一串点划分成短小节奏来读，通常比盯着整行符号更容易。理解它的历史和基本规则，也是在理解人们如何把声音、时间与文字连接起来。"
+        },
+        {
+          "id": "detective-substitution",
+          "title": "你以为是乱码？常见替换密码入门",
+          "imageUrl": "assets/article/detective-substitution-cipher.jpg",
+          "date": "2022-10-16",
+          "summary": "从频率和重复开始观察替换规律。",
+          "body": "导语：看到一行陌生字符时，人们常把它统称为“乱码”。其实，有些文本并没有损坏，只是使用了替换规则：原来的字母被另一个字母、符号或数字代替。理解这种方式，并不需要神秘感，先从规律开始即可。\n\n【简单替换与凯撒位移】最常见的简单替换，是为每个字母指定另一个对应符号；同一个原字母通常始终对应同一个替代符号。凯撒位移则更直观：把字母表整体向前或向后移动若干位。两者都强调规则一致，也因此会留下可观察的痕迹。\n\n【频率不是万能钥匙】在较长的文本中，常见字母、重复词形和相邻组合会提供线索，这就是频率分析的基础。不过短文本的样本太少，偶然性很强；一两个重复并不能证明一个结论。与其急着猜答案，不如先记录长度、重复位置和已知格式，再逐项验证。\n\n【常见误区】把任何陌生符号都当成密码，或只凭一个高频字符下判断，都容易走偏。找到一个看似通顺的片段后，也仍应继续核对。观察的价值不在于灵光一现，而在于每一步都能被更多文本支持。"
+        },
+        {
+          "id": "detective-scale",
+          "title": "现场照片里，比例尺为什么重要",
+          "imageUrl": "assets/article/detective-photo-scale.jpg",
+          "date": "2022-09-02",
+          "summary": "一把小小的比例尺，让照片保留尺寸信息。",
+          "body": "导语：一张照片可以保留画面，却不一定能保留尺寸。没有参照物时，一枚小扣子可能像一块金属片，一段近距离拍摄的划痕也可能被误认为很长。比例尺的价值，正是在画面里留下可复核的尺度信息。\n\n【让大小有依据】现场记录中的比例尺通常放在目标旁边，方便观察者理解物体的长度、宽度或细节范围。若无法使用专用比例尺，稳定且已知尺寸的参考物也能提供帮助，但应清楚说明其尺寸与位置，避免把猜测当作测量。\n\n【透视会改变视觉】镜头距离和角度会造成透视误差：靠近镜头的部分显得更大，边缘也可能变形。因此，比例尺最好与被拍物处在相近平面，不要斜着放在一旁。拍摄时保留全景、中景和近景，能让位置关系与细节相互补充。\n\n【记录比想象可靠】比例尺不是为了让照片看起来更专业，而是为了让后来的人也能理解当时所见。无论整理旧资料、制作物品记录，还是观察日常细节，有依据的参照都能让判断更稳。好的记录先把可以验证的事实留住。"
+        },
+        {
+          "id": "detective-timeline",
+          "title": "一条时间线能告诉你什么",
+          "imageUrl": "assets/article/detective-timeline-analysis.jpg",
+          "date": "2022-07-18",
+          "summary": "把碎片信息排进时间，事情会更清楚。",
+          "body": "导语：一条时间线不是把故事讲得更顺，而是把分散的信息放回它们发生的位置。当消息、票据、照片、行程和口述被放到同一条线上，原本模糊的关系往往会变得清楚，也更容易发现需要进一步核实的地方。\n\n【先建立可确认的节点】日期明确的车票、带有时间戳的照片、固定时间的通话记录，都可以作为起点。把来源写在节点旁边，区分已确认、当事人记忆和推测顺序，能避免后来把不同可信度的信息混在一起。\n\n【留意时间冲突】两个证言不一致，并不总是有人故意说错。人对时间的记忆常常围绕事件而非钟表：有人说傍晚，有人说下班后，可能都指向同一段时间。遇到冲突时，先问清参照物，再用独立资料交叉验证。\n\n【空白也有意义】时间线上的空档并不自动代表问题，但它会提示我们还缺什么资料。一次合理的补充、一张被忽略的收据，可能就能让事件顺序更完整。它不制造故事，只让事实有机会自己显出轮廓。"
+        },
+        {
+          "id": "detective-old-paper",
+          "title": "旧报纸、车票与日期：容易被忽略的信息",
+          "imageUrl": "assets/article/detective-old-records-date.jpg",
+          "date": "2022-05-09",
+          "summary": "纸面边角里，也许藏着可验证的事实。",
+          "body": "导语：旧报纸、车票、收据和便签常被当作背景材料，真正值得注意的信息却可能藏在边角：日期、版次、印章、纸张材质、编号或折痕。这些细节未必能单独说明一切，却能帮助我们把资料放回更准确的时间和环境里。\n\n【先看日期与来源】报纸的出版日期、版面位置和栏目名称，可以帮助确认当时的公共信息；车票上的站点、班次和票号，则能提供行程线索。遇到日期时，要注意它究竟是打印日期、使用日期还是收据开具日期，三者并不一定相同。\n\n【纸面也会说话】印章的单位名称、纸张的规格、复写痕迹和装订方式，都可能反映材料的来源和保存经历。它们不是戏剧化的隐藏答案，而是需要与内容、时间和其他记录一起看待的普通信息。\n\n【交叉验证比单点判断更重要】一张车票可以与日历、照片或邮件互相印证；一份收据也可以与商家信息、项目记录相互核对。把边角信息认真记下，再与其他来源比对，往往能让结论更可靠，也让我们对材料保持应有的耐心。"
+        }
+      ],
+      "services": [],
+      "patients": [],
+      "medicalRecords": []
+    }
+  ],
+  "storyNodes": [
+    {
+      "id": "mentor-final-start",
+      "title": "师傅终局开场",
+      "contactId": "mentor",
+      "activation": {
+        "type": "story_event",
+        "event": "final-log-read"
+      },
+      "messages": [
+        {
+          "id": "mentor-final-opening",
+          "from": "mentor",
+          "text": "小王，这件事事关晓晓。\n你……"
+        }
+      ],
+      "replyGroupId": "mentor-final-acknowledgement",
+      "enterActions": [],
+      "completeActions": [],
+      "once": true
+    },
+    {
+      "id": "mentor-final-reveal",
+      "title": "师傅终局确认",
+      "contactId": "mentor",
+      "activation": {
+        "type": "manual"
+      },
+      "messages": [
+        {
+          "id": "mentor-final-reveal-message",
+          "from": "mentor",
+          "text": "……既然这样，那就由你来决定吧。\n\n不管你最后怎么选，师傅都不会怪你。"
+        }
+      ],
+      "replyGroupId": "mentor-final-choice",
+      "enterActions": [],
+      "completeActions": [],
+      "once": true
+    }
+  ],
+  "replyGroups": [
+    {
+      "id": "mentor-final-acknowledgement",
+      "title": "师傅终局固定回复",
+      "ownerNodeId": "mentor-final-start",
+      "contactId": "mentor",
+      "singleUse": true,
+      "expireConditions": [],
+      "options": [
+        {
+          "id": "mentor-final-acknowledge",
+          "text": "现在事情我已经都知道了，师傅。",
+          "nextNodeId": "mentor-final-reveal",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "id": "mentor-final-choice",
+      "title": "师傅终局选择",
+      "checkpointId": "final-choice",
+      "ownerNodeId": "mentor-final-reveal",
+      "contactId": "mentor",
+      "singleUse": true,
+      "expireConditions": [],
+      "options": [
+        {
+          "id": "stop",
+          "text": "【终局选项 A：选择原则，阻止仪式】",
+          "actions": [
+            {
+              "type": "trigger_ending",
+              "endingId": "ending-03"
+            }
+          ]
+        },
+        {
+          "id": "wait",
+          "text": "【终局选项 B：选择感情，为了晓晓】",
+          "actions": [
+            {
+              "type": "trigger_ending",
+              "endingId": "ending-04"
+            }
+          ]
+        },
+        {
+          "id": "reply-option-mtbhxh1k-am0i",
+          "text": "【终局选项 C：逃避】",
+          "actions": [
+            {
+              "type": "trigger_ending",
+              "endingId": "ending-05"
+            }
+          ],
+          "nextNodeId": ""
+        }
+      ]
+    }
+  ],
+  "storyTriggers": [
+    {
+      "id": "final-log-read",
+      "title": "阅读《过了今晚》",
+      "condition": {
+        "type": "story_event",
+        "event": "final-log-read"
+      },
+      "actions": [
+        {
+          "type": "activate_wechat_node",
+          "nodeId": "mentor-final-start"
+        }
+      ],
+      "once": true
+    }
+  ],
+  "progressTriggers": [
+    {
+      "id": "mentor-all-cases-archived",
+      "replyGroupId": "mentor-all-cases-archived",
+      "enabled": true,
+      "when": "allCasesArchived",
+      "conversationId": "mentor",
+      "messages": [
+        {
+          "from": "mentor",
+          "text": "怎么样了"
+        }
+      ],
+      "replies": [
+        {
+          "id": "mentor-all-done-go-home",
+          "label": "全做完了，那我下班了",
+          "playerText": "全做完了，那我下班了",
+          "actions": [
+            {
+              "type": "trigger_ending",
+              "endingId": "ending-02",
+              "checkpointId": "mentor-after-archive-choice"
+            }
+          ],
+          "response": [],
+          "deliveryStatus": ""
+        },
+        {
+          "id": "mentor-all-done-investigate",
+          "label": "这几个案件早就整理好了，只是没有提交，你是看出什么了吗，师傅",
+          "playerText": "这几个案件早就整理好了，只是没有提交，你是看出什么了吗，师傅",
+          "response": [
+            {
+              "from": "mentor",
+              "text": "JZ-XZ-20190622-017 你自己去查吧 "
+            },
+            {
+              "id": "response-msj4uwzg-lv0a",
+              "from": "player",
+              "text": "这是案件编号？",
+              "date": "",
+              "time": "",
+              "deliveryStatus": "failed",
+              "pendingSend": true
+            }
+          ],
+          "deliveryStatus": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+[
+  {"id":"files","name":"\u6863\u6848\u5e93","icon":"\u25a3","color":"#58799a","entry":"./js/apps/files.js","source":"./data/files/"},
+  {"id":"chat","name":"\u901a\u8baf\u8bb0\u5f55","icon":"\u25cc","color":"#4d9b7f","entry":"./js/apps/chat.js","source":"./data/wechat/"},
+  {"id":"email","name":"\u7535\u5b50\u90ae\u4ef6","icon":"\u2709","color":"#b57a56","entry":"./js/apps/email.js","source":"./data/email/"},
+  {"id":"browser","name":"\u7f51\u7edc\u6d4f\u89c8\u5668","icon":"\u2315","color":"#7b70ac","entry":"./js/apps/browser.js","source":"./data/browser/"}
+]
