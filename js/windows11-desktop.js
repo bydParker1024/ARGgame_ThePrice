@@ -5,7 +5,7 @@
   if (!document.querySelector('link[data-browser-window-default-style]')) {
     var browserWindowStyle = document.createElement('link');
     browserWindowStyle.rel = 'stylesheet';
-    browserWindowStyle.href = './styles/browser-window-default.css?v=20260825a';
+    browserWindowStyle.href = './styles/browser-window-default.css?v=' + window.ARG_BUILD_VERSION;
     browserWindowStyle.dataset.browserWindowDefaultStyle = 'true';
     document.head.appendChild(browserWindowStyle);
   }

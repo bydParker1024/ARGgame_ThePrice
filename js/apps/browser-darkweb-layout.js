@@ -3,21 +3,21 @@
   if (!document.querySelector('link[data-darkweb-observations-style]')) {
     var observationStyle = document.createElement('link');
     observationStyle.rel = 'stylesheet';
-    observationStyle.href = './styles/browser-darkweb-observations.css?v=20260825a';
+    observationStyle.href = './styles/browser-darkweb-observations.css?v=' + window.ARG_BUILD_VERSION;
     observationStyle.dataset.darkwebObservationsStyle = 'true';
     document.head.appendChild(observationStyle);
   }
   if (!document.querySelector('link[data-darkweb-observations-redesign-style]')) {
     var observationRedesignStyle = document.createElement('link');
     observationRedesignStyle.rel = 'stylesheet';
-    observationRedesignStyle.href = './styles/browser-darkweb-observations-redesign.css?v=20260825a';
+    observationRedesignStyle.href = './styles/browser-darkweb-observations-redesign.css?v=' + window.ARG_BUILD_VERSION;
     observationRedesignStyle.dataset.darkwebObservationsRedesignStyle = 'true';
     document.head.appendChild(observationRedesignStyle);
   }
   if (!document.querySelector('link[data-darkweb-observation-eyes-style]')) {
     var observationEyesStyle = document.createElement('link');
     observationEyesStyle.rel = 'stylesheet';
-    observationEyesStyle.href = './styles/browser-darkweb-observation-eyes.css?v=20260825a';
+    observationEyesStyle.href = './styles/browser-darkweb-observation-eyes.css?v=' + window.ARG_BUILD_VERSION;
     observationEyesStyle.dataset.darkwebObservationEyesStyle = 'true';
     document.head.appendChild(observationEyesStyle);
   }

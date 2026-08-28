@@ -32,11 +32,14 @@ function renderApp(container, dependencies) {
       return;
     }
     const account = ACCOUNTS[operator];
-    if (!account || account.password !== password) {
+    const expectedDate = account && window.normalizePuzzleDateInput(account.password);
+    const inputDate = window.normalizePuzzleDateInput(password);
+    const passwordMatches = account && expectedDate && inputDate ? expectedDate === inputDate : account && account.password === password;
+    if (!passwordMatches) {
       container.querySelector('.archive-login-error').textContent = '人员编号或密码错误。';
       return;
     }
-    try { sessionStorage.setItem(sessionKey, JSON.stringify({ operator, password })); } catch (error) { /* 登录仍可在当前窗口使用 */ }
+    try { sessionStorage.setItem(sessionKey, JSON.stringify({ operator, password: account.password })); } catch (error) { /* 登录仍可在当前窗口使用 */ }
     renderArchive(container, dependencies, { operator, role: account.role, roleLabel: account.label, owner: account.owner });
   };
 }

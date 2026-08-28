@@ -109,10 +109,10 @@
     window.ARG_STORY.registerCheckpointProvider('final-choice', { capture: captureFinalChoiceCheckpoint, restore: restoreFinalChoiceCheckpoint });
   }
   function ensureMiniProgramAssets() {
-    if (!document.getElementById('wx-mini-programs-css')) { var link = document.createElement('link'); link.id = 'wx-mini-programs-css'; link.rel = 'stylesheet'; link.href = './styles/wechat-mini-programs.css?v=20260807b'; document.head.appendChild(link); }
-    if (!document.getElementById('wx-fishing-polish-css')) { var polish = document.createElement('link'); polish.id = 'wx-fishing-polish-css'; polish.rel = 'stylesheet'; polish.href = './styles/wechat-fishing-polish.css?v=20260807c'; document.head.appendChild(polish); }
+    if (!document.getElementById('wx-mini-programs-css')) { var link = document.createElement('link'); link.id = 'wx-mini-programs-css'; link.rel = 'stylesheet'; link.href = './styles/wechat-mini-programs.css?v=' + window.ARG_BUILD_VERSION; document.head.appendChild(link); }
+    if (!document.getElementById('wx-fishing-polish-css')) { var polish = document.createElement('link'); polish.id = 'wx-fishing-polish-css'; polish.rel = 'stylesheet'; polish.href = './styles/wechat-fishing-polish.css?v=' + window.ARG_BUILD_VERSION; document.head.appendChild(polish); }
     if (window.ARG_WECHAT_MINI_PROGRAMS) return Promise.resolve();
-    return new Promise(function (resolve) { var script = document.createElement('script'); script.src = './js/wechat-mini-programs.js?v=20260807d'; script.onload = resolve; script.onerror = resolve; document.head.appendChild(script); });
+    return new Promise(function (resolve) { var script = document.createElement('script'); script.src = './js/wechat-mini-programs.js?v=' + window.ARG_BUILD_VERSION; script.onload = resolve; script.onerror = resolve; document.head.appendChild(script); });
   }
 
   function normalizeStoryTimes(data) {

@@ -148,6 +148,6 @@
 }());
 /* Register the Zhao Degang enhancement before the desktop can open the browser. */
 var zhaoSearchScript = document.createElement('script');
-zhaoSearchScript.src = './js/apps/browser-zhao-search.js?v=20260818e';
+zhaoSearchScript.src = './js/apps/browser-zhao-search.js?v=' + window.ARG_BUILD_VERSION;
 zhaoSearchScript.async = false;
 document.head.appendChild(zhaoSearchScript);
