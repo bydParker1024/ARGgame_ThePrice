@@ -1,1 +1,1 @@
-window.ARG_BUILD_VERSION = 'v1.0';
+window.ARG_BUILD_VERSION = 'v1.1';
