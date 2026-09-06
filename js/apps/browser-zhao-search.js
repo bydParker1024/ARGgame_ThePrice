@@ -27,19 +27,17 @@
       var page = data.pages && data.pages['zhao-degang-search'];
       if (!page || container.dataset.zhaoSearchBound) return;
       container.dataset.zhaoSearchBound = 'true';
-      var boundZhaoElements = new WeakSet();
-      function show(target) { var destination = target.kind === 'results' ? page : data.pages[target.pageId], html = target.kind === 'results' ? results(page) : destination.layout === 'wiki' ? wiki(destination) : destination.layout === 'government-leader' ? government(destination) : destination.layout === 'article' ? articlePage(destination) : simplePage(destination); return window.showBrowserPage({ html: html, url: target.kind === 'results' ? 'https://www.chandler.com/search?q=' + encodeURIComponent(page.query) : destination.url || 'arg://page/' + target.pageId }); }
-      window.bindBrowserZhaoView = function (root) {
-        root.querySelectorAll('[data-zhao-page]').forEach(function (button) { if (boundZhaoElements.has(button)) return; boundZhaoElements.add(button); button.onclick = function () { show({ kind: 'page', pageId: button.dataset.zhaoPage }); }; });
-        root.querySelectorAll('[data-zhao-query]').forEach(function (button) { if (boundZhaoElements.has(button)) return; boundZhaoElements.add(button); button.onclick = function () { var input = root.querySelector('.arg-search-query input'); if (input) input.value = button.dataset.zhaoQuery; }; });
-        var form = root.querySelector('.arg-search-query'); if (form && !boundZhaoElements.has(form)) { boundZhaoElements.add(form); form.onsubmit = function (event) { event.preventDefault(); if (form.querySelector('input').value.trim() === page.query) show({ kind: 'results' }); }; }
-      };
-      function intercept(event) {
-        var form = event.target.closest('.arg-browser-form');
-        if (!form || form.querySelector('input').value.trim() !== page.query) return;
-        event.preventDefault(); event.stopImmediatePropagation(); show({ kind: 'results' });
-      }
-      container.addEventListener('submit', intercept, true);
+      window.registerBrowserPage('zhao-degang-search', function () {
+        return { html: results(page), url: 'https://www.chandler.com/search?q=' + encodeURIComponent(page.query) };
+      });
+      (page.webResults || []).forEach(function (item) {
+        var destination = data.pages[item.pageId];
+        if (!destination) return;
+        window.registerBrowserPage(item.pageId, function () {
+          var html = destination.layout === 'wiki' ? wiki(destination) : destination.layout === 'government-leader' ? government(destination) : destination.layout === 'article' ? articlePage(destination) : simplePage(destination);
+          return { html: html, url: destination.url || 'arg://page/' + item.pageId };
+        });
+      });
     });
   }};
 }());

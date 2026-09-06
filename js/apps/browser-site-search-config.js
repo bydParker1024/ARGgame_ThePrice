@@ -114,7 +114,7 @@
         browserPages = data.pages || {};
         window.requestAnimationFrame(cleanWenlianSearchResult);
       }).catch(function () {
-        pages = {};
+        browserPages = {};
       });
 
       var mappings = [
@@ -135,7 +135,7 @@
         var form = target.closest(mapping.selector);
         var input = form && form.querySelector('input');
         var keyword = input ? input.value.trim() : '';
-        var rules = (pages[mapping.pageId] && pages[mapping.pageId].siteSearchRules) || [];
+        var rules = (browserPages[mapping.pageId] && browserPages[mapping.pageId].siteSearchRules) || [];
         var rule = rules.find(function (item) {
           var saved = canonicalKeyword(item.keyword);
           var typed = canonicalKeyword(keyword);

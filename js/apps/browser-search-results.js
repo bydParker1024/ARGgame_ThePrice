@@ -76,7 +76,23 @@
       container.innerHTML = '<div class="arg-browser-toolbar"><button type="button" data-home aria-label="\u4e3b\u9875">⌂</button><span>\u5185\u7f51\u6d4f\u89c8\u5668</span><div class="arg-browser-address">arg://search</div></div><main class="arg-browser-view"></main>';
       var view = container.querySelector('.arg-browser-view');
       function home() { view.innerHTML = '<section class="arg-browser-home"><div class="arg-browser-brand"><i></i><b>Microsoft</b> Chandler</div><div class="arg-browser-search-wrap"><form class="arg-browser-form"><input autofocus placeholder="' + esc(data.placeholder || '') + '"><button type="submit">⌕</button></form><div class="arg-browser-hot"><strong>\u4f60\u53ef\u80fd\u611f\u5174\u8da3</strong>' + (data.hotSearches || []).map(function (q) { return '<button data-q="' + esc(q) + '">' + esc(q) + '</button>'; }).join('') + '</div></div></section>'; bind(); }
-      function search(q) { q = String(q || '').trim(); var rule = (data.searchRules || []).find(function (r) { return (r.keywords || [r.keyword]).some(function (key) { return String(key).toLowerCase() === q.toLowerCase(); }); }); var page = rule && data.pages && data.pages[rule.pageId]; if (page && page.layout === 'search-results') { var result = { html: pageHtml(page), url: 'https://www.chandler.com/search?q=' + encodeURIComponent(q) }; if (window.showBrowserPage && window.showBrowserPage(result)) return; view.innerHTML = result.html; container.querySelector('.arg-browser-address').textContent = result.url; bind(); return; } home(); }
+      function search(q) {
+        q = String(q || '').trim();
+        var matches = function (key) { return String(key).toLowerCase() === q.toLowerCase(); };
+        var rule = (data.searchRules || []).find(function (r) { return (r.keywords || [r.keyword]).some(matches); });
+        var pageId = rule ? rule.pageId : Object.keys(data.pages || {}).find(function (id) {
+          var candidate = data.pages[id];
+          return candidate.layout === 'search-results' && (candidate.related || []).some(matches);
+        });
+        var page = data.pages && data.pages[pageId];
+        if (page && page.layout === 'search-results') {
+          if (window.openBrowserPageById && window.openBrowserPageById(pageId)) return;
+          var result = { html: pageHtml(page), url: 'https://www.chandler.com/search?q=' + encodeURIComponent(q) };
+          if (window.showBrowserPage && window.showBrowserPage(result)) return;
+          view.innerHTML = result.html; container.querySelector('.arg-browser-address').textContent = result.url; bind(); return;
+        }
+        home();
+      }
       function bind() { view.__argBrowserSearch = search; window.hydrateBrowserView(view); }
       container.querySelector('[data-home]').onclick = home; home();
     });
